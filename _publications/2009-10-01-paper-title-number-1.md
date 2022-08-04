@@ -15,4 +15,3 @@ Using a combination of methods including secondary survey analysis, original sur
 
 [Read my dissertation here](http://chautong.github.io/files/dissertation.pdf)
 
-Recommended citation: Tong, C. T. T. (2021). The political use of search engines: Search tendencies and partisan personalization in google search results (Order No. 28411011). Available from ProQuest Dissertations & Theses Global. (2541383123).
