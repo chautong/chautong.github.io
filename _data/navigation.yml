@@ -3,10 +3,10 @@ main:
 
     
   - title: "Research"
-    url: /research/
+    url: /publications/
     
   - title: "My dissertation"
-    url: /publications/
+    url: /dissertation/
     
   - title: "Teaching"
     url: /teaching/
