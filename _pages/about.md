@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working as a Postdoctoral Associate in the [Department of Communication](https://cals.cornell.edu/communication) at Cornell University. My pronouns are she/her/hers. 
+I am currently working as a Postdoctoral Associate in the [Department of Communication](https://cals.cornell.edu/chau-tong) at Cornell University. My pronouns are she/her/hers. 
 
 I was born and grew up in Hanoi, Vietnam. I then came to Ewha Womans University in South Korea to complete my M.A. in Communication. In May 2021, I successfully defended my doctoral dissertation and earned a Ph.D. in Mass Communications from the University of Wisconsin-Madison, with a Ph.D. minor in Educational Psychology. 
 
@@ -16,6 +16,15 @@ My research specializations are in political communication, digital media, and p
  
 At Cornell, one of my current research projects focuses on using computational methods to understand the potentials for misinformation and racial disparities in the public information environment about colorectal cancer and colorectal cancer screening. 
 
+You can find my publications and articles on [my Google Scholar profile](https://scholar.google.com/citations?user=-oDmvvQAAAAJ&hl=en&oi=ao) or read more about my research on [my ResearchGate](https://www.researchgate.net/profile/Chau-Tong). 
+
+Data Science Focus
+======
+I am an active member of the data science community, including the [Computational Methods Division](http://ica-cm.org/) of the International Communication Association and [Open Data Science Conference](https://odsc.com).  
+
 Outreach and Extension Focus
 ======
-As a working member of Credibility Coalition, a community-led collaboration focused on building solutions to online trust, verification, fact checking, and reader experience in the interest of addressing information disorder issues online, I am interested in applying science to community-based issues and producing social goods.
+As a working member of [MisinfoCon](https://misinfocon.com/) and Credibility Coalition, I actively collaborate with different community sectors to build solutions to online trust, verification, and fact checking. As societal impacts entailed from online mis- and disinformation become more far-reaching, it also becomes clear that practical insights can be drawn from the combination of different stakeholders to produce social goods.
+
+
+
