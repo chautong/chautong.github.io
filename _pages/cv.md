@@ -24,6 +24,7 @@ Research and Teaching Interests
 
 Publications
 ======
+* **Tong, C.**, Margolin, D., Chunara, R., Niederdeppe, J., Taylor, T., Dunbar, N. & King, A. (in press). Search Term Identification Methods for Computational Health Communication: A Word Embedding and Network Approach for Health Content on YouTube. _JMIR Medical Informatics_. [link](http://dx.doi.org/10.2196/37862).
 * Suk, J., Lukito J., Su, M., Kim, S.J., **Tong, C.**, Sun, Z., & Sarma, P. (2022, preprint). Do I sound American? How message attributes of foreign disinformation relate to Twitter engagement. _Computational Communication Research_. 
 * **Tong, C.**, Winckler, H., & Rojas, H. (2021). The Connection Between Perceptions of Media Bias and Influence and Affective Polarization - An Examination in Brazil and Mexico and the United States. _Revista de Comunicación Política (Political Communication Magazine), 3, e1_. [link](https://doi.org/10.29105/rcp3-1)
 * Lukito, J., Loya, L., Davalos, C., Li, J., **Tong, C.** & McLeod, D. (2021). Chiming in: A computer-assisted analysis of popular musicians’ political engagement on Twitter. _Social Media and Society_. 
