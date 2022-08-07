@@ -30,7 +30,6 @@ permalink: /research/
 * Algorithmic curation of news and susceptibility to news personalization [Tong, 2020](https://www.researchgate.net/publication/343797574_Who_Prefers_Algorithmic_Filtering_of_Political_News_Examining_Individual_and_Partisan_Susceptibility_to_News_Personalization)
 * News sharing on social media [Lukito et al., 2021](https://doi.org/10.1177/20563051211019013), framing effects on the intentions to share news on social media [Valenzuela et al., 2020](https://www.researchgate.net/publication/350529918_Framing_Effects_on_Intentions_to_Share_News_on_Social_Media)
 
-![](/images/photo_network.png) ![](/word2vec.png)
 
 ### 3) Networked media ecology and public discourse on issues of social justice and contentious politics
 
@@ -43,7 +42,6 @@ permalink: /research/
   * Public opinion on Black Lives Movement protests examined through search traffic and suggested search results [Tong & Diakopoulos, 2021](http://chautong.github.io/files/Tong&Diakopoulos_2021.pdf)
   * Contrasting narratives of #MeToo coverage across the news media landscape [Ghosh et al., 2020](https://doi.org/10.1177/1940161220968081)
 
-![](/images/photo_ifcn.png)
 
 
 
