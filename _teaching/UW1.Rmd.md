@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Mass Communication - Graduate Teaching Assistant"
 collection: teaching
-date: '2014 - 2018'
+date: '2014'
 permalink: /teaching/UW1.Rmd.html
 venue: University of Wisconsin-Madison, School of Journalism and Mass Communications
 type: Undergraduate course
