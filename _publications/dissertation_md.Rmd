@@ -1,7 +1,7 @@
 ---
 title: "Dissertation: The Political Use of Search Engines"
 collection: publications
-permalink: /files/dissertation_md.html
+permalink: /publications/dissertation_md.html
 excerpt: 'My dissertation examines how contesting narratives in the public information environment regarding polarizing issues affect the way individuals use online search to verify political information, and consequently, how such information seeking tendencies might result in information inequalities, operationalized as different search results.'
 paperurl: 'http://chautong.github.io/files/dissertation.pdf'
 date: 2021-05-24
