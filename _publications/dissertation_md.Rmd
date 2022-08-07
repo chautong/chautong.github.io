@@ -1,10 +1,8 @@
 ---
-title: "Dissertation: The Political Use of Search Engines"
+title: "Dissertation: The Political Implications of Search Engines: Usage and Partisan Personalization in Google Search"
 collection: publications
 permalink: /publications/dissertation_md.html
 excerpt: 'My dissertation examines how contesting narratives in the public information environment regarding polarizing issues affect the way individuals use online search to verify political information, and consequently, how such information seeking tendencies might result in information inequalities, operationalized as different search results.'
-paperurl: 'http://chautong.github.io/files/dissertation.pdf'
-date: 2021-05-24
 ---
 **Digital platform companies are taking increasingly important roles in the contemporary information life of citizens**. Together with social media giants like Facebook and Twitter, Internet search engines are vital information intermediaries that could enable, channel, or inhibit exposure to diverse media. While social media use and their democratic impact have gained meticulous academic attention, relatively less research in the domain of mass communication has been conducted on the effects of search personalization on citizens’ access to news and political information. Search engine personalization effects have not been widely studied mainly because of the heterogeneity in individuals’ information-seeking habits and the opaque mechanisms of algorithmic search results. 
 
