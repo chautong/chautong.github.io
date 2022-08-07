@@ -16,7 +16,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chautong/chautong.github.io"
 teaser                   : "Chau_photo_headshot.jpeg"
 breadcrumbs              : false # true, false (default)
-words_per_minute         : 160
+words_per_minute         : 300
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : true #change to true to add link to talkmap on talks page
@@ -187,6 +187,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  dissertation:
+    output: true
+    permalink: /dissertation/
 
 
 # Defaults
