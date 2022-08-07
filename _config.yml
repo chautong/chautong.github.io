@@ -189,7 +189,7 @@ collections:
     permalink: /:collection/:path/
   dissertation:
     output: true
-    permalink: /dissertation/
+    permalink: /:collection/:path/
 
 
 # Defaults
