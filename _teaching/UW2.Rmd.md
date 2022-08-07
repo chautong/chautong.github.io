@@ -1,7 +1,7 @@
 ---
 title: "Mass Media in Multicultural America - Graduate Teaching Assistant"
 collection: teaching
-date: '2016'
+date: '2016-08-27'
 permalink: /teaching/UW2.Rmd.html
 venue: University of Wisconsin-Madison, School of Journalism and Mass Communications
 type: Online Undergraduate course
