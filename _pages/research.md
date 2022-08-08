@@ -19,7 +19,7 @@ permalink: /research/
   * Online disinformation campaigns and behavioral effects on the receiving audiences [Suk et al., 2022](https://osf.io/dvnjm)
   * Strategic communication strategies to leverage political outcomes in a hybrid and networked media system [Xia et al., 2019](https://doi.org/10.1080/1369118X.2019.1621921)
 
-<img src="/images/photo_word2vec1.png" style="display: block; margin: auto;" />
+<img src="/images/photo_word2vec.png" style="display: block; margin: auto;" />
 
 ### 2) Communication technologies and machine algorithms in the contexts of information equities and social connections
 
