@@ -33,6 +33,7 @@ permalink: /research/
 * News sharing on social media [Lukito et al., 2021](https://doi.org/10.1177/20563051211019013), framing effects on the intentions to share news on social media [Valenzuela et al., 2020](https://www.researchgate.net/publication/350529918_Framing_Effects_on_Intentions_to_Share_News_on_Social_Media)
 
 <img src="/images/photo_word2vec1.png" style="display: block; margin: auto;" />
+
 <img src="/images/photo_network.png" style="display: block; margin: auto;" />
 
 
@@ -48,6 +49,7 @@ permalink: /research/
   * Contrasting narratives of #MeToo coverage across the news media landscape [Ghosh et al., 2020](https://doi.org/10.1177/1940161220968081)
 
 <img src="/images/photo_blmsearch.png" style="display: block; margin: auto;" />
+
 <img src="/images/photo_ifcn.png" style="display: block; margin: auto;" />
 
 
