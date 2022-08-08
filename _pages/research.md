@@ -17,18 +17,23 @@ permalink: /research/
   * Online disinformation campaigns and behavioral effects on the receiving audiences [Suk et al., 2022](https://osf.io/dvnjm)
   * Strategic communication strategies to leverage political outcomes in a hybrid and networked media system [Xia et al., 2019](https://doi.org/10.1080/1369118X.2019.1621921)
 
+<img src="/images/photo_polarize.png" style="display: block; margin: auto;" />
+
 ### 2) Communication technologies and machine algorithms in the contexts of information equities and social connections
 
   Another strand of my research is in the increasingly sophisticated and influential role that technologies employed by digital platforms play in the current society. I am interested in understanding the public use and societal impact of technologies and machine algorithms in the contexts of politics and social connections. I explore this broad question in both social media platforms (particularly Twitter, Tumblr) and online search engines (Google Search). 
 
-  In particular, [my dissertation](https://chautong.github.io/publications/dissertation_md.html) focuses on search engines as information intermediaries that are crucial to political information acquisition and democratic outcomes. Using a combination of data sources (e.g. online media archives, Google search data) and methods (including text mining, survey design, field experiments), I examined the extent to which ideological “filter bubbles” exist due to human bias and machine algorithms that feed on previous behaviors. 
+  In particular, [my dissertation](https://chautong.github.io/files/dissertation_md.html) focuses on search engines as information intermediaries that are crucial to political information acquisition and democratic outcomes. Using a combination of data sources (e.g. online media archives, Google search data) and methods (including text mining, survey design, field experiments), I examined the extent to which ideological “filter bubbles” exist due to human bias and machine algorithms that feed on previous behaviors.
 
 #### Related publications
 
 * The political implications of search engines [Tong, 2021, dissertation](http://chautong.github.io/files/dissertation.pdf)
 * Applying data science and computational social science approaches to address communication disorders and improve equities [Tong et al., 2022](http://chautong.github.io/files/Tong_2022.pdf)
-* Algorithmic curation of news and susceptibility to news personalization [Tong, 2020](https://www.researchgate.net/publication/343797574_Who_Prefers_Algorithmic_Filtering_of_Political_News_Examining_Individual_and_Partisan_Susceptibility_to_News_Personalization)
+* Algorithmic curation of news and susceptibility to news personalization [Tong, 2020](https://chautong.github.io/files/AEJMC2020Poster_final.pdf)
 * News sharing on social media [Lukito et al., 2021](https://doi.org/10.1177/20563051211019013), framing effects on the intentions to share news on social media [Valenzuela et al., 2020](https://www.researchgate.net/publication/350529918_Framing_Effects_on_Intentions_to_Share_News_on_Social_Media)
+
+<img src="/images/photo_word2vec1.png" style="display: block; margin: auto;" />
+<img src="/images/photo_network.png" style="display: block; margin: auto;" />
 
 
 ### 3) Networked media ecology and public discourse on issues of social justice and contentious politics
@@ -42,7 +47,8 @@ permalink: /research/
   * Public opinion on Black Lives Movement protests examined through search traffic and suggested search results [Tong & Diakopoulos, 2021](http://chautong.github.io/files/Tong&Diakopoulos_2021.pdf)
   * Contrasting narratives of #MeToo coverage across the news media landscape [Ghosh et al., 2020](https://doi.org/10.1177/1940161220968081)
 
-
+<img src="/images/photo_blmsearch.png" style="display: block; margin: auto;" />
+<img src="/images/photo_ifcn.png" style="display: block; margin: auto;" />
 
 
 
