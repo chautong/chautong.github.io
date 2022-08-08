@@ -11,13 +11,15 @@ permalink: /research/
 
   These aggravating outcomes hold even more important implications when it comes to online information disorders including misinformation and disinformation. My research show that strategic deceptive strategies employed by Russian disinformation campaigns on social media were particularly successful in engaging online audiences through sharing and engagement. 
 
+<img src="/images/photo_polarize.png" style="display: block; margin: auto;" />
+
 #### Related publications
 
   * Public perceptions of "fake news" and impacts on political polarization [Tong et al., 2021](https://doi.org/10.29105/rcp3-1), [Tong et al., 2020](https://doi.org/10.1080/15205436.2020.1789661) 
   * Online disinformation campaigns and behavioral effects on the receiving audiences [Suk et al., 2022](https://osf.io/dvnjm)
   * Strategic communication strategies to leverage political outcomes in a hybrid and networked media system [Xia et al., 2019](https://doi.org/10.1080/1369118X.2019.1621921)
 
-<img src="/images/photo_polarize.png" style="display: block; margin: auto;" />
+<img src="/images/photo_word2vec1.png" style="display: block; margin: auto;" />
 
 ### 2) Communication technologies and machine algorithms in the contexts of information equities and social connections
 
@@ -32,8 +34,6 @@ permalink: /research/
 * Algorithmic curation of news and susceptibility to news personalization [Tong, 2020](https://chautong.github.io/files/AEJMC2020Poster_final.pdf)
 * News sharing on social media [Lukito et al., 2021](https://doi.org/10.1177/20563051211019013), framing effects on the intentions to share news on social media [Valenzuela et al., 2020](https://www.researchgate.net/publication/350529918_Framing_Effects_on_Intentions_to_Share_News_on_Social_Media)
 
-<img src="/images/photo_word2vec1.png" style="display: block; margin: auto;" />
-
 <img src="/images/photo_network.png" style="display: block; margin: auto;" />
 
 
@@ -43,6 +43,8 @@ permalink: /research/
 
   Relatedly, my currently wrapped up project on international fact-checking efforts regarding COVID-19 misinformation found that the current themes of misinformation are shared across geographical borders and networked fact-checking media. 
 
+<img src="/images/photo_ifcn.png" style="display: block; margin: auto;" />
+
 #### Related publications
   * Dealing with misinformation on COVID-19: Comparing the networked use of transparency and accessibility in fact-checking practices [Tong et al., 2022](https://globalfact9.com/session/138270) 
   * Public opinion on Black Lives Movement protests examined through search traffic and suggested search results [Tong & Diakopoulos, 2021](http://chautong.github.io/files/Tong&Diakopoulos_2021.pdf)
@@ -50,7 +52,6 @@ permalink: /research/
 
 <img src="/images/photo_blmsearch.png" style="display: block; margin: auto;" />
 
-<img src="/images/photo_ifcn.png" style="display: block; margin: auto;" />
 
 
 
