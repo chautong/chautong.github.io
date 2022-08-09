@@ -3,7 +3,7 @@ title: "Teaching"
 permalink: /teaching/
 ---
 
-Teaching experience 
+My teaching experience with undergraduate and graduate level courses 
 ======
 
 ## Cornell University
