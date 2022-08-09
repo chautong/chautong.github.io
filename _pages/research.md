@@ -1,28 +1,31 @@
 ---
-title: "Research"
 permalink: /research/
+title: "Research"
 gallery:
-  - url: images/photo_polarize.png
-    image_path: images/photo_polarize.png
+  - url: research/photo_polarize.png
+    image_path: research/photo_polarize.png
     alt: "The salience of partisan identity"
     title: "The salience of partisan identity"
-  - url: images/photo_word2vec.png
-    image_path: images/photo_word2vec.png
+  - url: research/photo_word2vec.png
+    image_path: research/photo_word2vec.png
     alt: "Computational health communication: Unsupervised word embeddings"
     title: "Computational health communication: Unsupervised word embeddings"
-  - url: images/photo_network.png
-    image_path: images/photo_network.png
+  - url: research/photo_network.png
+    image_path: research/photo_network.png
     alt: "Network neighbor semantic clustering to discriminate term relevance"
     title: "Network neighbor semantic clustering to discriminate term relevance"
-  - url: images/photo_blmsearch.png
-    image_path: images/photo_blmsearch.png
+  - url: research/photo_blmsearch.png
+    image_path: research/photo_blmsearch.png
     alt: "Percent of African Americans and households with Internet subscription are significantly associated with higher search interest in BLM"
     title: ""Percent of African Americans and households with Internet subscription are significantly associated with higher search interest in BLM"
-  - url: images/photo_ifcn.png
-    image_path: images/photo_ifcn.png
+  - url: research/photo_ifcn.png
+    image_path: research/photo_ifcn.png
     alt: "Dealing with COVID-19 misinformation: Poynter's International Fact-checking Network"
     title: "Dealing with COVID-19 misinformation: Poynter's International Fact-checking Network"   
+    
 ---
+
+
 {% include gallery %}
 
 ## My research falls into three main focus areas: 
