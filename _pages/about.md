@@ -16,11 +16,11 @@ My research specializations are in political communication, digital media, and p
  
 At Cornell, I am managing a NIH-funded three-part research that deploys computational methods to understand the potentials for misinformation and racial disparities in the public information environment about colorectal cancer and colorectal cancer screening in the US. The very first paper from the project that I led, in collaboration with colleagues from NYU and the University of Utah, has recently been published in the [JMIR Medical Informatics](https://dx.doi.org/10.2196/37862). 
 
-You can find my other publications and articles on [my Google Scholar profile](https://scholar.google.com/citations?user=-oDmvvQAAAAJ&hl=en&oi=ao), [my ResearchGate](https://www.researchgate.net/profile/Chau-Tong), or read [my CV here](https://chautong.github.io/cv/). 
+You can find my other publications and articles on [my Google Scholar profile](https://scholar.google.com/citations?user=-oDmvvQAAAAJ&hl=en&oi=ao), or [my ResearchGate](https://www.researchgate.net/profile/Chau-Tong).
 
 Data Science Focus
 ======
-I am an active member of the data science community, including the [Computational Methods Division](http://ica-cm.org/) of the International Communication Association and [Open Data Science Conference](https://odsc.com).  
+Incorporating data science approaches and methodologies is a big part of [my research](https://chautong.github.io/research/). I am an active member of the data science community, including the [Computational Methods Division](http://ica-cm.org/) of the International Communication Association and [Open Data Science Conference](https://odsc.com).  
 
 Outreach and Extension Focus
 ======
