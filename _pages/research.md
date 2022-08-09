@@ -14,17 +14,10 @@ gallery:
     image_path: research/photo_network.png
     alt: "Network neighbor semantic clustering to discriminate term relevance"
     title: "Network neighbor semantic clustering to discriminate term relevance"
-  - url: research/photo_blmsearch.png
-    image_path: research/photo_blmsearch.png
-    alt: "Percent of African Americans and households with Internet subscription are significantly associated with higher search interest in BLM"
-    title: ""Percent of African Americans and households with Internet subscription are significantly associated with higher search interest in BLM"
-  - url: research/photo_ifcn.png
-    image_path: research/photo_ifcn.png
-    alt: "Dealing with COVID-19 misinformation: Poynter's International Fact-checking Network"
-    title: "Dealing with COVID-19 misinformation: Poynter's International Fact-checking Network"   
-    
----
 
+header:
+  og_image: "research/photo_merged.png"
+---
 
 {% include gallery %}
 
@@ -56,7 +49,6 @@ gallery:
 * Algorithmic curation of news and susceptibility to news personalization [Tong, 2020](https://chautong.github.io/files/AEJMC2020Poster_final.pdf)
 * News sharing on social media [Lukito et al., 2021](https://doi.org/10.1177/20563051211019013), framing effects on the intentions to share news on social media [Valenzuela et al., 2020](https://www.researchgate.net/publication/350529918_Framing_Effects_on_Intentions_to_Share_News_on_Social_Media)
 
-
 ### 3) Networked media ecology and public discourse on issues of social justice and contentious politics
 
   In these projects, my colleagues and I examine the nature of news and online media coverage surrounding contentious issues such as the MeToo movement and Black Lives Matter movement. Results from these research indicate how the available public discourse is contingent on several factors, including the partisan nature of media outlets, information habits and behaviors of the audiences, as well as the information supply in the networked media systems.
@@ -68,3 +60,4 @@ gallery:
   * Public opinion on Black Lives Movement protests examined through search traffic and suggested search results [Tong & Diakopoulos, 2021](http://chautong.github.io/files/Tong&Diakopoulos_2021.pdf)
   * Contrasting narratives of #MeToo coverage across the news media landscape [Ghosh et al., 2020](https://doi.org/10.1177/1940161220968081)
 
+![](/images/research/photo_merged.png)
