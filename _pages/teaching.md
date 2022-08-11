@@ -3,7 +3,7 @@ title: "Teaching"
 permalink: /teaching/
 ---
 
-My teaching experience with undergraduate and graduate level courses 
+My teaching experience at undergraduate and graduate levels
 ======
 
 ## Cornell University
@@ -43,7 +43,7 @@ This workshop uses news coverage on the 2020 Black Lives Matter protests as exam
   
   * Mode of instruction: Online
   * Fall 2016 - Summer 2017
-  * [Syllabus]
+  * [Course modules](http://chautong.github.io/files/J162_MassMediaMulticulturalAmerica_modules.pdf)
 
   
 ### Online Communication and Interpersonal Relationships - Graduate Course Reader
