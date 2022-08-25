@@ -35,6 +35,11 @@ Book Chapter
 
 * **Tong C.**, Gill, H., Li, J., Valenzuela, S., Rojas, H. (2020). “Fake News is Anything They Say!” – Conceptualization and Weaponization of Fake News among the American Public, p.755-778. _What IS “news”?_ Donnalyn Pompper and Lindsay Hoffman (Eds.), Routledge, London. 
 
+Peered-reviewed Conference Proceedings and Presentations
+======
+
+In addition to published journal articles and book chapters, I have over **20 peer-reviewed papers/posters** that have been presented at national and international conferences. The full list of these works and their associated PDFs/files can be found in [my complete CV here](https://chautong.github.io/cv/). 
+
 
 
 
