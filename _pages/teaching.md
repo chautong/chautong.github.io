@@ -53,5 +53,5 @@ This workshop uses news coverage on the 2020 Black Lives Matter protests as exam
   My responsibilities include providing feedback and grading 2 exams and 3 assignments (2 pages each) for 60 students throughout the semester.
 
   * Fall 2018 
-  * [Syllabus](http://chautong.github.io/files/CA345_Choi_Syllabus.pdf)
+  * Syllabus
 
