@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working as a Postdoctoral Associate in the [Department of Communication](https://cals.cornell.edu/chau-tong) at Cornell University. My pronouns are she/her/hers. 
+I am currently working as a Postdoctoral Associate in the [Department of Communication](https://cals.cornell.edu/chau-tong) at Cornell University, and will begin my new position as an assistant professor in the [School of Journalism](https://journalism.missouri.edu/) and the [MU Institute for Data Science & Informatics](https://muidsi.missouri.edu/) at the University of Missouri-Columbia in August, 2023.  
 
 I was born and grew up in Hanoi, Vietnam. I then came to Ewha Womans University in South Korea to complete my M.A. in Communication. In May 2021, I successfully defended my doctoral dissertation and earned a Ph.D. in Mass Communications from the University of Wisconsin-Madison, with a Ph.D. minor in Educational Psychology. 
 
