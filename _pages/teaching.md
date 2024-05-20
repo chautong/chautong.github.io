@@ -21,7 +21,6 @@ This workshop guides students to deploy the Twitter Academic API to collect publ
 
   * **Topic modelling and Word Embedding Analysis in R**, 
         * _November 17, 2021_
-        * [Lecture materials](http://chautong.github.io/files/topicmodels.html)
 
 This workshop uses news coverage on the 2020 Black Lives Matter protests as examples, to illustrate how text mining approaches, in particular topic modelling (LDA and STM) and word embeddings, can be used to understand public discourse. Students were introduced to R packages such as quanteda, topicmodels, stm and word2vec and walked through supervised and unsupervised methods to analyze text data. 
 
