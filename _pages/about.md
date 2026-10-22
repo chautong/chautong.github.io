@@ -1,30 +1,26 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
+excerpt: "Computational communication research on information access, credibility, and inequality in health and politics."
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I am an assistant professor in the [School of Journalism](https://journalism.missouri.edu/) and the [MU Institute for Data Science & Informatics](https://muidsi.missouri.edu/) at the University of Missouri-Columbia.  
+I am a computational communication scholar and an assistant professor with a joint appointment in the [Missouri School of Journalism](https://journalism.missouri.edu/) and the [Institute for Data Science & Informatics](https://muidsi.missouri.edu/) at the University of Missouri. I study how people and digital platforms jointly shape access to information, judgments of credibility, and information inequality in health and politics.
 
-I was born and grew up in Hanoi, Vietnam. I then came to Ewha Womans University in South Korea to complete my M.A. in Communication. In May 2021, I successfully defended my doctoral dissertation and earned a Ph.D. in Mass Communications from the University of Wisconsin-Madison, with a Ph.D. minor in Educational Psychology. I finished my postdoctoral training at Cornell University in the [Department of Communication](https://cals.cornell.edu/chau-tong) in 2023. 
+What people encounter online depends on the questions they ask, the sources platforms select, and the social connections through which information circulates. Four questions organize my research:
 
-My research specializations are in political communication, digital media, and public opinion. I apply computational social science methods, including NLP, network analysis, to study the interactions between technologies and societies, particular the areas of algorithmic bias & auditing, personalization, and the cultures of online mis/disinformation. My dissertation examines the [consequential impact of cognitive biases and algorithmic amplifications](https://chautong.github.io/files/dissertation_md.html) regarding polarizing social and political topics.   
- 
-In my postdoctoral associate role at Cornell, I worked on a NIH-funded three-part research that deploys computational methods to understand the potentials for misinformation and racial disparities in the public information environment about colorectal cancer and colorectal cancer screening in the US. My first-authored work from the project that I led, in collaboration with colleagues from NYU and the University of Utah, was published in the [JMIR Medical Informatics](https://dx.doi.org/10.2196/37862). Other related works from this project were published in the [Preventive Medicine](https://doi.org/10.1016/j.ypmed.2023.107728), and the [Journal of the American College of Radiology](https://doi.org/10.1016/j.jacr.2023.06.045).
+- [People](/research/#people): who produces, shares, and contests information and its credibility.
+- [Platform and social curation](/research/#platform-and-social-curation): how search results and social ties shape what becomes visible.
+- [Information](/research/#information): what people may encounter, and how to measure it accurately.
+- [Impact](/research/#impact): how information relates to understanding, attitudes, and action.
 
-You can find my other publications and articles on [my Google Scholar profile](https://scholar.google.com/citations?user=-oDmvvQAAAAJ&hl=en&oi=ao), or [my ResearchGate](https://www.researchgate.net/profile/Chau-Tong).
+My current focus is AI-generated health information. I supervise research auditing Google AI Overviews across languages and over time, and am developing an experimental study of how these answers connect uncertain evidence to possible next steps.
 
-Data Science Focus
-======
-Incorporating data science approaches and methodologies is a big part of [my research](https://chautong.github.io/research/). I am an active member of the data science community, including the [Computational Methods Division](http://ica-cm.org/) of the International Communication Association and [Open Data Science Conference](https://odsc.com).  
+Methodological development is part of this agenda. I combine platform audits, language and network analysis, and survey research, and develop ways to evaluate computational measures through human judgment. My recent [AURA study](https://doi.org/10.1177/16094069261486252) presents a workflow for assessing the alignment and usefulness of machine-generated topics in qualitative analysis.
 
-Outreach and Extension Focus
-======
-As a working member of [MisinfoCon](https://misinfocon.com/) and Credibility Coalition, I actively collaborate with different community sectors to build solutions to online trust, verification, and fact checking. As societal impacts entailed from online mis- and disinformation become more far-reaching, it also becomes clear that practical insights can be drawn from the combination of different stakeholders to produce social goods.
+Originally from Hanoi, Vietnam, I earned my M.A. in Communication at Ewha Womans University and my Ph.D. in Mass Communications at the University of Wisconsin–Madison. Before joining Missouri in 2023, I was a postdoctoral associate in Communication at Cornell University.
 
-
-
+[Explore my research](/research/) · [Google Scholar](https://scholar.google.com/citations?user=-oDmvvQAAAAJ&hl=en) · [Email me](mailto:ctong@missouri.edu)

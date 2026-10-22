@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">Four questions in Chau Tong's research program</title>
+  <desc id="desc">A left-to-right pathway adapted from a 2026 research colloquium slide. People: who produces and shares information? Platform and social curation: what becomes visible, amplified, or hidden? Information: what do people encounter and how can it be measured? Impact: how does information relate to understanding and action?</desc>
+  <style>
+    .head { fill: #132b56; font: 700 30px 'Source Sans Pro', Arial, sans-serif; }
+    .body { fill: #526273; font: 400 25px 'Source Sans Pro', Arial, sans-serif; }
+    .rule { fill: #ccff00; }
+    .arrow { fill: none; stroke: #758499; stroke-width: 4; stroke-linecap: round; stroke-linejoin: round; }
+  </style>
+  <rect width="1200" height="260" fill="#ffffff"/>
+  <rect class="rule" x="20" y="22" width="252" height="5"/>
+  <rect class="rule" x="322" y="22" width="252" height="5"/>
+  <rect class="rule" x="624" y="22" width="252" height="5"/>
+  <rect class="rule" x="926" y="22" width="252" height="5"/>
+  <text class="head" x="20" y="83">People</text>
+  <text class="body" x="20" y="154"><tspan x="20">Who produces and</tspan><tspan x="20" dy="32">shares information?</tspan></text>
+  <path class="arrow" d="M287 136h22m-9-9 9 9-9 9"/>
+  <text class="head" x="322" y="80"><tspan x="322">Platform and</tspan><tspan x="322" dy="35">social curation</tspan></text>
+  <text class="body" x="322" y="154"><tspan x="322">What becomes visible,</tspan><tspan x="322" dy="32">amplified, or hidden?</tspan></text>
+  <path class="arrow" d="M589 136h22m-9-9 9 9-9 9"/>
+  <text class="head" x="624" y="83">Information</text>
+  <text class="body" x="624" y="154"><tspan x="624">What do people</tspan><tspan x="624" dy="32">encounter, and how</tspan><tspan x="624" dy="32">can I measure it?</tspan></text>
+  <path class="arrow" d="M891 136h22m-9-9 9 9-9 9"/>
+  <text class="head" x="926" y="83">Impact</text>
+  <text class="body" x="926" y="154"><tspan x="926">How does information</tspan><tspan x="926" dy="32">relate to understanding</tspan><tspan x="926" dy="32">and action?</tspan></text>
+</svg>
