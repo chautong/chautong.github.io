@@ -33,7 +33,7 @@ My current focus is AI-generated health information. I supervise research auditi
 
 <div class="project-grid">
   <article class="project-card">
-    <a class="project-card__image" href="/research/#information" aria-label="Read about AI-generated health information research"><img src="/images/research/research-program-path.svg" alt="Four-part framework connecting people, platforms, information, and impact."></a>
+    <a class="project-card__image" href="/research/#information" aria-label="Read about AI-generated health information research"><img src="/images/research/research-program-path.svg?v=20261023-3" alt="Four-part framework connecting people, platforms, information, and impact."></a>
     <div class="project-card__body">
       <div class="module-kicker">AI and health information</div>
       <h3><a href="/research/#information">Auditing answers under uncertainty</a></h3>

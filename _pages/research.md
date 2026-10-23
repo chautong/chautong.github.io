@@ -18,8 +18,8 @@ I am a computational communication scholar studying how people and digital platf
 
 <figure class="research-program-figure">
   <picture>
-    <source media="(max-width: 700px)" srcset="/images/research/research-program-path-mobile.svg">
-    <img src="/images/research/research-program-path.svg" alt="Four connected questions organize the research: People, who produces and shares information? Platform and social curation, what becomes visible, amplified, or hidden? Information, what do people encounter and how can it be measured? Impact, how does information relate to understanding and action?">
+    <source media="(max-width: 700px)" srcset="/images/research/research-program-path-mobile.svg?v=20261023-3">
+    <img src="/images/research/research-program-path.svg?v=20261023-3" alt="Four connected questions organize the research: People, who produces and shares information? Platform and social curation, what becomes visible, amplified, or hidden? Information, what do people encounter and how can it be measured? Impact, how does information relate to understanding and action?">
   </picture>
 </figure>
 

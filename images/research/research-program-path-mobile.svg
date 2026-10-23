@@ -2,10 +2,10 @@
   <title id="title">Four questions in Chau Tong's research program</title>
   <desc id="desc">A top-to-bottom pathway adapted from a 2026 research colloquium slide. People: who produces and shares information? Platform and social curation: what becomes visible, amplified, or hidden? Information: what do people encounter and how can it be measured? Impact: how does information relate to understanding and action?</desc>
   <style>
-    .head { fill: #132b56; font: 700 34px 'Source Sans Pro', Arial, sans-serif; }
-    .body { fill: #526273; font: 400 29px 'Source Sans Pro', Arial, sans-serif; }
-    .rule { fill: #ccff00; }
-    .arrow { fill: none; stroke: #758499; stroke-width: 4; stroke-linecap: round; stroke-linejoin: round; }
+    .head { fill: #18364a; font: 700 34px 'Source Sans Pro', Arial, sans-serif; }
+    .body { fill: #26343c; font: 400 29px 'Source Sans Pro', Arial, sans-serif; }
+    .rule { fill: #c94a3d; }
+    .arrow { fill: none; stroke: #c94a3d; stroke-width: 4; stroke-linecap: round; stroke-linejoin: round; }
   </style>
   <rect width="680" height="760" fill="#ffffff"/>
   <rect class="rule" x="40" y="20" width="600" height="5"/>
