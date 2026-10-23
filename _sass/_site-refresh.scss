@@ -171,6 +171,115 @@ figcaption {
   line-height: 1.55;
 }
 
+.project-grid {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  margin: 1.35rem 0 2.5rem;
+}
+
+.project-card {
+  background: rgba(#fff, 0.82);
+  border: 1px solid $site-rule;
+  border-radius: 10px;
+  box-shadow: 0 8px 24px rgba($site-ink, 0.045);
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  overflow: hidden;
+  transition: border-color 180ms ease, box-shadow 180ms ease, transform 180ms ease;
+}
+
+.project-card__image {
+  background: #fff;
+  display: block;
+  height: 9.25rem;
+  overflow: hidden;
+  text-decoration: none;
+}
+
+.project-card__image img {
+  height: 100%;
+  margin: 0;
+  object-fit: contain;
+  padding: 0.55rem;
+  transition: transform 220ms ease;
+  width: 100%;
+}
+
+.project-card__body {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  padding: 1rem 1.05rem 1.15rem;
+}
+
+.project-card h3 {
+  font-size: 1.05rem;
+  margin: 0 0 0.55rem;
+}
+
+.project-card h3 a {
+  color: $site-ink;
+  text-decoration: none;
+}
+
+.project-card p {
+  font-size: 0.84rem;
+  line-height: 1.55;
+  margin-bottom: 0;
+}
+
+/* Quiet interaction cues */
+.question-card,
+.selected-card,
+.course-card,
+.teaching-exhibit,
+.content-module,
+.lab-card,
+.recognition {
+  transition: border-color 180ms ease, box-shadow 180ms ease, transform 180ms ease;
+}
+
+.project-card:hover,
+.project-card:focus-within,
+.question-card:hover,
+.question-card:focus-within,
+.selected-card:hover,
+.selected-card:focus-within,
+.course-card:hover,
+.course-card:focus-within,
+.lab-card:hover,
+.lab-card:focus-within {
+  border-color: rgba($site-teal, 0.58);
+  box-shadow: 0 12px 30px rgba($site-ink, 0.09);
+  transform: translateY(-3px);
+}
+
+.project-card:hover .project-card__image img,
+.project-card:focus-within .project-card__image img {
+  transform: scale(1.025);
+}
+
+.page-actions a,
+.author__primary-links a,
+.greedy-nav a {
+  transition: background-color 160ms ease, color 160ms ease, transform 160ms ease;
+}
+
+.page-actions a:hover,
+.page-actions a:focus-visible,
+.author__primary-links a:hover,
+.author__primary-links a:focus-visible {
+  transform: translateY(-1px);
+}
+
+a:focus-visible,
+button:focus-visible {
+  outline: 3px solid rgba($site-teal, 0.38);
+  outline-offset: 3px;
+}
+
 .page-actions {
   align-items: center;
   display: flex;
@@ -453,7 +562,8 @@ figcaption {
   .lab-grid,
   .selected-grid,
   .question-grid,
-  .split-paths {
+  .split-paths,
+  .project-grid {
     grid-template-columns: 1fr;
   }
 
@@ -472,5 +582,31 @@ figcaption {
 
   .content-module {
     padding: 1.1rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *:before,
+  *:after {
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  .project-card:hover,
+  .project-card:focus-within,
+  .question-card:hover,
+  .question-card:focus-within,
+  .selected-card:hover,
+  .selected-card:focus-within,
+  .course-card:hover,
+  .course-card:focus-within,
+  .lab-card:hover,
+  .lab-card:focus-within,
+  .page-actions a:hover,
+  .page-actions a:focus-visible,
+  .author__primary-links a:hover,
+  .author__primary-links a:focus-visible {
+    transform: none;
   }
 }
