@@ -9,8 +9,7 @@ I am a computational communication scholar studying how people and digital platf
 
 <style>
   .research-program-figure {
-    width: min(1000px, calc(100vw - 22rem));
-    min-width: 100%;
+    width: 100%;
     margin: 1.75rem 0 2rem;
   }
 
@@ -25,11 +24,6 @@ I am a computational communication scholar studying how people and digital platf
     width: 100%;
   }
 
-  @media (max-width: 1024px) {
-    .research-program-figure {
-      width: 100%;
-    }
-  }
 </style>
 
 <figure class="research-program-figure">
