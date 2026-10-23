@@ -7,10 +7,35 @@ author_profile: true
 
 I am a computational communication scholar studying how people and digital platforms shape public information in health and politics. My research follows a question that has stayed with me across these domains: How do digital platforms and AI shape the information people encounter, how they understand and act on it, and who benefits or gets left behind?
 
-<figure>
+<style>
+  .research-program-figure {
+    width: min(1000px, calc(100vw - 22rem));
+    min-width: 100%;
+    margin: 1.75rem 0 2rem;
+  }
+
+  .research-program-figure img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+
+  .research-program-figure figcaption {
+    max-width: 52rem;
+    margin-top: 0.65rem;
+  }
+
+  @media (max-width: 1024px) {
+    .research-program-figure {
+      width: 100%;
+    }
+  }
+</style>
+
+<figure class="research-program-figure">
   <picture>
     <source media="(max-width: 700px)" srcset="/images/research/research-program-path-mobile.svg">
-    <img src="/images/research/research-program-path.svg" alt="Four connected questions organize the research: People, who produces and shares information? Platform and social curation, what becomes visible, amplified, or hidden? Information, what do people encounter and how can it be measured? Impact, how does information relate to understanding and action?" style="max-width:100%;height:auto;">
+    <img src="/images/research/research-program-path.svg" alt="Four connected questions organize the research: People, who produces and shares information? Platform and social curation, what becomes visible, amplified, or hidden? Information, what do people encounter and how can it be measured? Impact, how does information relate to understanding and action?">
   </picture>
   <figcaption>Four questions that organize my research, from information production to its possible consequences.</figcaption>
 </figure>

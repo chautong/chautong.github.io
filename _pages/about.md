@@ -23,4 +23,4 @@ Methodological development is part of this agenda. I combine platform audits, la
 
 Originally from Hanoi, Vietnam, I earned my M.A. in Communication at Ewha Womans University and my Ph.D. in Mass Communications at the University of Wisconsin–Madison. Before joining Missouri in 2023, I was a postdoctoral associate in Communication at Cornell University.
 
-[Explore my research](/research/) · [Google Scholar](https://scholar.google.com/citations?user=-oDmvvQAAAAJ&hl=en) · [Email me](mailto:ctong@missouri.edu)
+[Explore my research](/research/) · [CV](/cv/) · [Google Scholar](https://scholar.google.com/citations?user=-oDmvvQAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-6609-9889) · [Email me](mailto:ctong@missouri.edu)

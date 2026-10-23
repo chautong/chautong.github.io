@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Chau Tong"
 title_separator          : "-"
 name                     : &name "Chau Tong, Ph.D."
-description              : &description "Computational Social Scientist"
+description              : &description "Assistant Professor of Strategic Communication and Computational Communication Scholar at the University of Missouri"
 url                      : https://chautong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chautong/chautong.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Chau Tong, Ph.D."
   avatar           : "Chau_photo_headshot.jpeg"
-  bio              : "Computational Social Scientist"
-  location         : "Columbia, MO"
-  employer         : "University of Missouri-Columbia"
+  bio              : "Assistant Professor of Strategic Communication"
+  location         : "University of Missouri · Columbia, MO"
+  employer         : "Missouri School of Journalism · Institute for Data Science & Informatics"
   
   googlescholar    : "https://scholar.google.com/citations?user=-oDmvvQAAAAJ&hl=en&oi=ao"
   email            : "ctong@missouri.edu"
@@ -103,7 +103,8 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "chau-tong"
-  orcid            : "http://orcid.org/0000-0002-6609-9889"
+  orcid            : "https://orcid.org/0000-0002-6609-9889"
+  cv               : "/cv/"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
