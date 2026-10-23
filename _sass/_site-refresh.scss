@@ -660,6 +660,61 @@ button:focus-visible {
   margin: 1rem 0 2rem;
 }
 
+/* Teaching-page vermilion accents */
+.teaching-grid .course-card {
+  border-top-color: $site-red;
+}
+
+.teaching-grid .course-card:nth-child(even) {
+  border-top-color: rgba($site-red, 0.72);
+}
+
+.teaching-exhibit {
+  border-left: 4px solid $site-red;
+  position: relative;
+}
+
+.teaching-exhibit:before {
+  background: $site-red;
+  border-radius: 50%;
+  content: "";
+  height: 0.55rem;
+  position: absolute;
+  right: 0.85rem;
+  top: 0.85rem;
+  width: 0.55rem;
+}
+
+.principle {
+  border-left-color: $site-red;
+}
+
+.process-step {
+  border-top-color: $site-red;
+}
+
+.process-arrow {
+  color: $site-red;
+}
+
+.path {
+  border-top: 3px solid rgba($site-red, 0.78);
+}
+
+.curriculum-map th {
+  background: $site-ink;
+  border-color: $site-ink;
+  color: #fff;
+}
+
+.curriculum-map tbody tr:first-child td {
+  border-top: 3px solid $site-red;
+}
+
+.course-tags {
+  color: #8f3d34;
+}
+
 /* Author sidebar */
 .author-card {
   background: rgba(#fff, 0.72);
