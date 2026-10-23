@@ -84,7 +84,8 @@ author:
   avatar           : "Chau_photo_headshot.jpeg"
   bio              : "Assistant Professor of Strategic Communication"
   location         : "University of Missouri · Columbia, MO"
-  employer         : "Missouri School of Journalism · Institute for Data Science & Informatics"
+  employer         : "Missouri School of Journalism"
+  affiliation      : "Institute for Data Science & Informatics"
   
   googlescholar    : "https://scholar.google.com/citations?user=-oDmvvQAAAAJ&hl=en&oi=ao"
   email            : "ctong@missouri.edu"
