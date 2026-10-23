@@ -20,9 +20,9 @@ I am a computational communication scholar studying how people and digital platf
     height: auto;
   }
 
-  .research-program-figure figcaption {
-    max-width: 52rem;
-    margin-top: 0.65rem;
+  .research-program-figure picture {
+    display: block;
+    width: 100%;
   }
 
   @media (max-width: 1024px) {
