@@ -37,7 +37,6 @@ I am a computational communication scholar studying how people and digital platf
     <source media="(max-width: 700px)" srcset="/images/research/research-program-path-mobile.svg">
     <img src="/images/research/research-program-path.svg" alt="Four connected questions organize the research: People, who produces and shares information? Platform and social curation, what becomes visible, amplified, or hidden? Information, what do people encounter and how can it be measured? Impact, how does information relate to understanding and action?">
   </picture>
-  <figcaption>Four questions that organize my research, from information production to its possible consequences.</figcaption>
 </figure>
 
 These questions connect studies of political search, health information, credibility, and AI-generated answers. They also mark an important difference in evidence: observing what a platform displays, estimating who could encounter it, and testing what people understand or do require different methods. My current work on AI-generated health answers brings those questions together.
