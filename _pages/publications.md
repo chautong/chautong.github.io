@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+<div class="page-kicker">01 / Scholarly record</div>
+
 My research examines how people, platforms, and AI shape public information in health and politics. The publications below are organized by product type so that journal articles, archival conference proceedings, and other scholarly products remain distinct. My name appears in **bold**. See [Google Scholar](https://scholar.google.com/citations?user=-oDmvvQAAAAJ&hl=en) for citation data and the [CV](/cv/) for manuscripts under review and conference presentations.
 
 ## Selected contributions

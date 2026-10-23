@@ -8,7 +8,12 @@ redirect_from:
   - /about.html
 ---
 
+<section class="editorial-intro" markdown="1">
+<div class="page-kicker">01 / Computational communication</div>
+
 I am a computational communication scholar and an assistant professor with a joint appointment in the [Missouri School of Journalism](https://journalism.missouri.edu/) and the [Institute for Data Science & Informatics](https://muidsi.missouri.edu/) at the University of Missouri. I study how people and digital platforms jointly shape access to information, judgments of credibility, and information inequality in health and politics.
+
+</section>
 
 What people encounter online depends on the questions they ask, the sources platforms select, and the social connections through which information circulates. Four questions organize my research:
 
@@ -20,6 +25,9 @@ What people encounter online depends on the questions they ask, the sources plat
 </div>
 
 My current focus is AI-generated health information. I supervise research auditing Google AI Overviews across languages and over time, and am developing an experimental study of how these answers connect uncertain evidence to possible next steps.
+
+<section class="editorial-band" markdown="1">
+<div class="page-kicker">02 / Current research</div>
 
 ## Selected work
 
@@ -49,6 +57,8 @@ My current focus is AI-generated health information. I supervise research auditi
     </div>
   </article>
 </div>
+
+</section>
 
 Methodological development is part of this agenda. I combine platform audits, language and network analysis, and survey research, and develop ways to evaluate computational measures through human judgment. My recent [AURA study](https://doi.org/10.1177/16094069261486252) presents a workflow for assessing the alignment and usefulness of machine-generated topics in qualitative analysis.
 

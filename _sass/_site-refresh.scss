@@ -1,17 +1,217 @@
 /* Site-wide visual system: restrained color, editorial typography, and modular content. */
 
 $site-ink: #18364a;
-$site-teal: #2f7474;
-$site-sage: #dfe9e4;
-$site-paper: #fbfaf7;
-$site-warm: #f3eee5;
-$site-rule: #d8e0de;
+$site-teal: #397574;
+$site-red: #c94a3d;
+$site-sage: #dfe7e1;
+$site-paper: #f7f3ea;
+$site-warm: #eee8dc;
+$site-rule: #d8d1c4;
 $site-muted: #607078;
 
 body {
   background: $site-paper;
   letter-spacing: -0.005em;
 }
+
+/* Editorial poster-inspired layer */
+.page__inner-wrap > header {
+  border-bottom: 1px solid $site-rule;
+  margin-bottom: 1.35rem;
+  padding-bottom: 0.8rem;
+  position: relative;
+}
+
+.page__inner-wrap > header:after {
+  background: $site-red;
+  bottom: -2px;
+  content: "";
+  height: 3px;
+  left: 0;
+  position: absolute;
+  width: 4.5rem;
+}
+
+.page-kicker {
+  color: $site-red;
+  font-family: $monospace;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  margin-bottom: 0.65rem;
+  text-transform: uppercase;
+}
+
+.module-kicker {
+  color: $site-red;
+}
+
+.editorial-intro {
+  background-color: rgba(#fff, 0.3);
+  background-image: linear-gradient(rgba($site-rule, 0.42) 1px, transparent 1px), linear-gradient(90deg, rgba($site-rule, 0.42) 1px, transparent 1px);
+  background-size: 38px 38px;
+  border-bottom: 4px solid $site-red;
+  margin: 0 0 2rem;
+  overflow: hidden;
+  padding: 1.35rem 1.5rem 1.5rem;
+  position: relative;
+}
+
+.editorial-intro:before,
+.editorial-intro:after {
+  border: 1px solid rgba($site-ink, 0.42);
+  content: "";
+  pointer-events: none;
+  position: absolute;
+}
+
+.editorial-intro:before {
+  height: 5rem;
+  right: 2.4rem;
+  top: 1.1rem;
+  width: 8rem;
+}
+
+.editorial-intro:after {
+  height: 3.4rem;
+  right: 0.9rem;
+  top: 3.3rem;
+  width: 6.2rem;
+}
+
+.editorial-intro > p {
+  font-family: $header-font-family;
+  font-size: 1.18rem;
+  line-height: 1.55;
+  max-width: calc(100% - 9rem);
+  position: relative;
+  z-index: 1;
+}
+
+.editorial-intro .page-kicker {
+  position: relative;
+  z-index: 1;
+}
+
+.central-question {
+  background: rgba(#fff, 0.78);
+  border-left: 4px solid $site-red;
+  margin: 1.5rem 0 2rem;
+  padding: 1rem 1.25rem 1.15rem;
+}
+
+.central-question blockquote {
+  border: 0;
+  color: $site-ink;
+  font-family: $header-font-family;
+  font-size: clamp(1.3rem, 2.4vw, 1.8rem);
+  font-style: normal;
+  line-height: 1.35;
+  margin: 0;
+  padding: 0;
+}
+
+.editorial-band {
+  background: $site-ink;
+  color: #f8f4ec;
+  margin: 3rem 0;
+  padding: 1.4rem 1.5rem 1.65rem;
+  position: relative;
+}
+
+.editorial-band:before {
+  background: $site-red;
+  content: "";
+  height: 4px;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.editorial-band h2 {
+  color: #fff;
+  margin-top: 0.75rem;
+}
+
+.editorial-band h2:after {
+  background: $site-red;
+}
+
+.editorial-band .project-grid {
+  margin-bottom: 0;
+}
+
+.content-module,
+.question-card,
+.project-card,
+.author-card {
+  border-radius: 2px;
+}
+
+.content-module,
+.question-card {
+  border-top-color: $site-red;
+}
+
+.publication-group {
+  border-left-color: $site-red;
+}
+
+.project-card__image {
+  position: relative;
+}
+
+.project-card__image:after {
+  background: $site-red;
+  border-radius: 50%;
+  content: "";
+  height: 0.55rem;
+  position: absolute;
+  right: 0.7rem;
+  top: 0.7rem;
+  width: 0.55rem;
+}
+
+.editorial-node-rule {
+  align-items: center;
+  display: flex;
+  gap: 0.55rem;
+  margin: 0.25rem 0 1rem;
+}
+
+.editorial-node-rule:before {
+  background: $site-red;
+  border-radius: 50%;
+  content: "";
+  height: 0.55rem;
+  width: 0.55rem;
+}
+
+.editorial-node-rule:after {
+  background: $site-red;
+  content: "";
+  height: 2px;
+  width: 4.5rem;
+}
+
+@media (max-width: 760px) {
+  .editorial-intro:before,
+  .editorial-intro:after {
+    display: none;
+  }
+
+  .editorial-intro > p {
+    max-width: 100%;
+  }
+
+  .editorial-band {
+    margin-left: -0.4rem;
+    margin-right: -0.4rem;
+    padding: 1.25rem 1rem 1.4rem;
+  }
+}
+
 
 .masthead {
   background: rgba($site-paper, 0.96);
@@ -610,3 +810,10 @@ button:focus-visible {
     transform: none;
   }
 }
+
+
+/* Poster-layer precedence overrides */
+.module-kicker { color: $site-red; }
+.content-module, .question-card, .project-card, .author-card { border-radius: 2px; }
+.content-module, .question-card { border-top-color: $site-red; }
+.publication-group { border-left-color: $site-red; }

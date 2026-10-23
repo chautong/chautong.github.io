@@ -4,6 +4,8 @@ permalink: /teaching/
 ---
 
 
+<div class="page-kicker">01 / Teaching portfolio</div>
+
 <p class="teaching-lead">I teach students to investigate communication in rapidly changing technological environments. Across journalism and data science, my courses connect theory, research design, and computational methods while asking students to examine what evidence can—and cannot—establish.</p>
 
 <p class="teaching-lead">My courses serve students with different disciplinary backgrounds and levels of technical preparation. I use scaffolded projects, applied exercises, coding labs, case discussions, and peer feedback to help students move from concepts to defensible research decisions. Whether students are designing a survey, analyzing language or networks, or evaluating a generative-AI system, I want them to develop the judgment to use emerging methods responsibly and explain their limitations clearly.</p>

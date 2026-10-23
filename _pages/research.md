@@ -5,7 +5,16 @@ excerpt: "How people, platforms, and AI shape information and its consequences i
 author_profile: true
 ---
 
-I am a computational communication scholar studying how people and digital platforms shape public information in health and politics. My research follows a question that has stayed with me across these domains: How do digital platforms and AI shape the information people encounter, how they understand and act on it, and who benefits or gets left behind?
+<div class="page-kicker">01 / Research program</div>
+
+I am a computational communication scholar studying how people and digital platforms shape public information in health and politics.
+
+<aside class="central-question">
+  <div class="module-kicker">The central question</div>
+  <blockquote>How do digital platforms and AI shape the information people encounter, how they understand and act on it, and who benefits or gets left behind?</blockquote>
+</aside>
+
+<div class="editorial-node-rule" aria-hidden="true"></div>
 
 <figure class="research-program-figure">
   <picture>
