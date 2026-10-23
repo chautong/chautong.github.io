@@ -12,10 +12,12 @@ I am a computational communication scholar and an assistant professor with a joi
 
 What people encounter online depends on the questions they ask, the sources platforms select, and the social connections through which information circulates. Four questions organize my research:
 
-- [People](/research/#people): who produces, shares, and contests information and its credibility.
-- [Platform and social curation](/research/#platform-and-social-curation): how search results and social ties shape what becomes visible.
-- [Information](/research/#information): what people may encounter, and how to measure it accurately.
-- [Impact](/research/#impact): how information relates to understanding, attitudes, and action.
+<div class="question-grid">
+  <article class="question-card"><strong><a href="/research/#people">People</a></strong><p>Who produces, shares, and contests information and its credibility?</p></article>
+  <article class="question-card"><strong><a href="/research/#platform-and-social-curation">Platform and social curation</a></strong><p>How do search results and social ties shape what becomes visible?</p></article>
+  <article class="question-card"><strong><a href="/research/#information">Information</a></strong><p>What might people encounter, and how can it be measured accurately?</p></article>
+  <article class="question-card"><strong><a href="/research/#impact">Impact</a></strong><p>How does information relate to understanding, attitudes, and action?</p></article>
+</div>
 
 My current focus is AI-generated health information. I supervise research auditing Google AI Overviews across languages and over time, and am developing an experimental study of how these answers connect uncertain evidence to possible next steps.
 
@@ -23,4 +25,10 @@ Methodological development is part of this agenda. I combine platform audits, la
 
 Originally from Hanoi, Vietnam, I earned my M.A. in Communication at Ewha Womans University and my Ph.D. in Mass Communications at the University of Wisconsin–Madison. Before joining Missouri in 2023, I was a postdoctoral associate in Communication at Cornell University.
 
-[Explore my research](/research/) · [CV](/cv/) · [Google Scholar](https://scholar.google.com/citations?user=-oDmvvQAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-6609-9889) · [Email me](mailto:ctong@missouri.edu)
+<nav class="page-actions" aria-label="Profile links">
+  <a href="/research/">Explore my research</a>
+  <a href="/cv/">CV</a>
+  <a href="https://scholar.google.com/citations?user=-oDmvvQAAAAJ&hl=en">Google Scholar</a>
+  <a href="https://orcid.org/0000-0002-6609-9889">ORCID</a>
+  <a href="mailto:ctong@missouri.edu">Email</a>
+</nav>

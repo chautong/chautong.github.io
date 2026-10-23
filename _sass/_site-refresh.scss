@@ -1,0 +1,476 @@
+/* Site-wide visual system: restrained color, editorial typography, and modular content. */
+
+$site-ink: #18364a;
+$site-teal: #2f7474;
+$site-sage: #dfe9e4;
+$site-paper: #fbfaf7;
+$site-warm: #f3eee5;
+$site-rule: #d8e0de;
+$site-muted: #607078;
+
+body {
+  background: $site-paper;
+  letter-spacing: -0.005em;
+}
+
+.masthead {
+  background: rgba($site-paper, 0.96);
+  border-bottom-color: $site-rule;
+  box-shadow: 0 1px 0 rgba($site-ink, 0.03);
+}
+
+.masthead__menu-item--lg a {
+  color: $site-ink;
+  font-family: $header-font-family;
+  font-size: 1.08rem;
+}
+
+.greedy-nav a {
+  color: #40535d;
+}
+
+.greedy-nav .visible-links a:before {
+  height: 2px;
+  background: $site-teal;
+}
+
+.page__title {
+  color: $site-ink;
+  font-size: clamp(2rem, 4vw, 3rem);
+  letter-spacing: -0.035em;
+  line-height: 1.02;
+  margin-bottom: 0.85rem;
+}
+
+.page__content {
+  line-height: 1.72;
+}
+
+.page__content > p,
+.page__content > ul,
+.page__content > ol {
+  max-width: 52rem;
+}
+
+.page__content h2 {
+  color: $site-ink;
+  border-bottom: 0;
+  margin-top: 3.25rem;
+  padding-bottom: 0.45rem;
+  position: relative;
+}
+
+.page__content h2:after {
+  content: "";
+  display: block;
+  width: 3.25rem;
+  height: 3px;
+  margin-top: 0.55rem;
+  background: $site-teal;
+}
+
+.page__content h3,
+.page__content h4 {
+  color: $site-ink;
+}
+
+.page__content a {
+  color: $site-teal;
+  text-decoration-color: rgba($site-teal, 0.38);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.14em;
+}
+
+.page__content a:hover {
+  color: $site-ink;
+  text-decoration-color: $site-ink;
+}
+
+figcaption {
+  color: $site-muted;
+  font-family: $global-font-family;
+  font-size: 0.82rem;
+  line-height: 1.5;
+}
+
+/* Reusable visual modules */
+.content-grid,
+.teaching-grid,
+.lab-grid,
+.selected-grid,
+.question-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 1.35rem 0 2.25rem;
+}
+
+.content-module,
+.course-card,
+.teaching-exhibit,
+.lab-card,
+.selected-card,
+.question-card,
+.recognition {
+  background: rgba(#fff, 0.78);
+  border: 1px solid $site-rule;
+  border-radius: 10px;
+  box-shadow: 0 8px 24px rgba($site-ink, 0.045);
+}
+
+.content-module {
+  margin: 1.3rem 0 2rem;
+  padding: 1.35rem 1.5rem 1.45rem;
+  border-top: 4px solid $site-teal;
+}
+
+.content-module h2 {
+  margin-top: 0;
+}
+
+.content-module h2:after {
+  display: none;
+}
+
+.content-module > :last-child,
+.selected-card > :last-child,
+.question-card > :last-child {
+  margin-bottom: 0;
+}
+
+.module-kicker {
+  color: $site-teal;
+  font-size: 0.74rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  margin-bottom: 0.35rem;
+  text-transform: uppercase;
+}
+
+.question-card,
+.selected-card {
+  padding: 1.05rem 1.15rem;
+}
+
+.question-card {
+  border-top: 3px solid $site-teal;
+}
+
+.question-card strong,
+.selected-card strong {
+  color: $site-ink;
+  display: block;
+  font-family: $header-font-family;
+  font-size: 1.08rem;
+  margin-bottom: 0.3rem;
+}
+
+.question-card p,
+.selected-card p {
+  font-size: 0.92rem;
+  line-height: 1.55;
+}
+
+.page-actions {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+  margin: 1.5rem 0 0;
+}
+
+.page-actions a {
+  background: $site-ink;
+  border-radius: 999px;
+  color: #fff;
+  font-size: 0.82rem;
+  font-weight: 650;
+  padding: 0.5rem 0.85rem;
+  text-decoration: none;
+}
+
+.page-actions a:hover {
+  background: $site-teal;
+  color: #fff;
+}
+
+/* Research and publication modules */
+.research-program-figure {
+  background: #fff;
+  border: 1px solid $site-rule;
+  border-radius: 10px;
+  box-shadow: 0 8px 24px rgba($site-ink, 0.045);
+  padding: 0.8rem;
+}
+
+.research-program-figure img {
+  border-radius: 6px;
+  margin-bottom: 0;
+}
+
+.publication-group {
+  background: rgba(#fff, 0.72);
+  border-left: 3px solid $site-sage;
+  margin: 1.4rem 0 2.4rem;
+  padding: 0.25rem 1.25rem 0.45rem;
+}
+
+.publication-group h2 {
+  margin-top: 1rem;
+}
+
+.publication-group ol,
+.publication-group ul {
+  padding-left: 1.35rem;
+}
+
+.publication-group li {
+  margin-bottom: 0.95rem;
+}
+
+/* Teaching and lab components */
+.course-card,
+.teaching-exhibit,
+.lab-card,
+.recognition {
+  padding: 1.15rem 1.25rem;
+}
+
+.teaching-lead,
+.lab-lead {
+  font-size: 1.06rem;
+  line-height: 1.75;
+  max-width: 52rem;
+}
+
+.course-card,
+.lab-card {
+  border-top: 3px solid $site-teal;
+}
+
+.course-meta,
+.lab-role,
+.course-tags {
+  color: $site-muted;
+}
+
+.course-meta,
+.lab-role {
+  font-size: 0.86rem;
+  margin-bottom: 0.7rem;
+}
+
+.course-tags {
+  font-size: 0.78rem;
+  font-weight: 650;
+  letter-spacing: 0.025em;
+}
+
+.principle {
+  background: $site-warm;
+  border-left: 4px solid $site-teal;
+  border-radius: 0 8px 8px 0;
+  padding: 0.8rem 1.1rem;
+}
+
+.process-step,
+.path,
+.placement,
+.earlier-teaching {
+  background: $site-warm;
+  border-radius: 7px;
+}
+
+.process {
+  align-items: stretch;
+  display: flex;
+  gap: 0.45rem;
+  margin: 1rem 0;
+}
+
+.process-step {
+  border-top: 3px solid $site-teal;
+  flex: 1;
+  min-width: 0;
+  padding: 0.75rem;
+}
+
+.process-step strong {
+  color: $site-ink;
+  display: block;
+  margin-bottom: 0.3rem;
+}
+
+.process-arrow {
+  align-items: center;
+  color: $site-teal;
+  display: flex;
+  font-weight: 700;
+}
+
+.split-paths {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.path,
+.placement,
+.earlier-teaching {
+  padding: 0.9rem 1rem;
+}
+
+.curriculum-map {
+  border-collapse: collapse;
+  font-size: 0.86rem;
+  width: 100%;
+}
+
+.curriculum-map th {
+  background: $site-sage;
+  color: $site-ink;
+  text-align: left;
+}
+
+.curriculum-map th,
+.curriculum-map td {
+  border: 1px solid $site-rule;
+  padding: 0.65rem;
+  vertical-align: top;
+}
+
+.placement-list {
+  display: grid;
+  gap: 0.8rem;
+  margin: 1rem 0 2rem;
+}
+
+/* Author sidebar */
+.author-card {
+  background: rgba(#fff, 0.72);
+  border: 1px solid $site-rule;
+  border-radius: 12px;
+  padding: 0.9rem;
+}
+
+.author__avatar img {
+  border: 0;
+  box-shadow: 0 8px 22px rgba($site-ink, 0.12);
+  padding: 0;
+}
+
+.sidebar .author__name {
+  color: $site-ink;
+  font-family: $header-font-family;
+  font-size: 1.08rem;
+}
+
+.author__bio {
+  color: $site-teal;
+  font-weight: 650;
+  line-height: 1.35;
+}
+
+.author__affiliations {
+  border-bottom: 1px solid $site-rule;
+  border-top: 1px solid $site-rule;
+  color: #4f6068;
+  margin: 0.8rem 0;
+  padding: 0.7rem 0;
+}
+
+.author__affiliations p {
+  margin: 0 0 0.38rem;
+  white-space: normal;
+}
+
+.author__affiliations p:last-child {
+  margin-bottom: 0;
+}
+
+.author__urls {
+  width: 100%;
+}
+
+.author__urls .author__primary-links {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.4rem;
+  margin-bottom: 0.65rem;
+}
+
+.author__urls .author__primary-links a {
+  align-items: center;
+  background: $site-ink;
+  border-radius: 6px;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  margin: 0;
+  padding: 0.45rem 0.35rem;
+  text-align: center;
+}
+
+.author__urls .author__primary-links a:hover {
+  background: $site-teal;
+  text-decoration: none;
+}
+
+.author__secondary-links {
+  color: $site-muted;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 0.65rem;
+}
+
+.author__secondary-links a {
+  display: inline;
+  font-size: 0.72rem;
+  margin: 0;
+  padding: 0;
+}
+
+@media (max-width: 924px) {
+  .author-card {
+    align-items: center;
+    display: flex;
+    gap: 0.8rem;
+    padding: 0.7rem;
+  }
+
+  .author__affiliations {
+    display: none;
+  }
+
+  .author__urls-wrapper {
+    margin-left: auto;
+  }
+}
+
+@media (max-width: 760px) {
+  .content-grid,
+  .teaching-grid,
+  .lab-grid,
+  .selected-grid,
+  .question-grid,
+  .split-paths {
+    grid-template-columns: 1fr;
+  }
+
+  .process {
+    flex-direction: column;
+  }
+
+  .process-arrow {
+    justify-content: center;
+    transform: rotate(90deg);
+  }
+
+  .page__title {
+    font-size: 2.15rem;
+  }
+
+  .content-module {
+    padding: 1.1rem;
+  }
+}

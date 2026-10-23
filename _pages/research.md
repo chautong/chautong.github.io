@@ -7,25 +7,6 @@ author_profile: true
 
 I am a computational communication scholar studying how people and digital platforms shape public information in health and politics. My research follows a question that has stayed with me across these domains: How do digital platforms and AI shape the information people encounter, how they understand and act on it, and who benefits or gets left behind?
 
-<style>
-  .research-program-figure {
-    width: 100%;
-    margin: 1.75rem 0 2rem;
-  }
-
-  .research-program-figure img {
-    display: block;
-    width: 100%;
-    height: auto;
-  }
-
-  .research-program-figure picture {
-    display: block;
-    width: 100%;
-  }
-
-</style>
-
 <figure class="research-program-figure">
   <picture>
     <source media="(max-width: 700px)" srcset="/images/research/research-program-path-mobile.svg">
@@ -35,11 +16,19 @@ I am a computational communication scholar studying how people and digital platf
 
 These questions connect studies of political search, health information, credibility, and AI-generated answers. They also mark an important difference in evidence: observing what a platform displays, estimating who could encounter it, and testing what people understand or do require different methods. My current work on AI-generated health answers brings those questions together.
 
+<section class="content-module" markdown="1">
+<div class="module-kicker">Research pillar 01</div>
+
 ## People
 
 Information environments begin with people who produce, share, interpret, and contest public claims. In my first-authored [Mass Communication and Society article](https://doi.org/10.1080/15205436.2020.1789661), I distinguished definitions of “fake news” that describe false content from accusations aimed at political and media opponents. The latter were associated with affective polarization. A credibility label can therefore be part of political communication, not simply a neutral description of content.
 
 Related collaborative work in [PLOS ONE](https://doi.org/10.1371/journal.pone.0328550) develops a typology of how people object to news commentary. My current manuscript with Tanner Smith, under review at *Political Communication*, examines framing and nationalization in pink-slime outlets presented as local news. Together, these projects ask how participants define legitimate information and negotiate the norms of public discussion.
+
+</section>
+
+<section class="content-module" markdown="1">
+<div class="module-kicker">Research pillar 02</div>
 
 ## Platform and social curation
 
@@ -54,6 +43,11 @@ The same study also shows a gap in the information available to circulate: outco
   <figcaption>Selected, nonexclusive categories among 1,134 likely equity-related posts; mentioning a racial group did not necessarily mean advocating equity. Data: <a href="https://doi.org/10.2196/63864">Tong et al. (2025), Table 3</a>.</figcaption>
 </figure>
 
+</section>
+
+<section class="content-module" markdown="1">
+<div class="module-kicker">Research pillar 03</div>
+
 ## Information
 
 To study what is available, I first have to make the information environment observable. In a first-authored [JMIR Medical Informatics study](https://doi.org/10.2196/37862), I combined word embeddings, recommendation networks, and human relevance judgments to retrieve health-related YouTube videos that clinical seed terms could miss. Colloquial terms and preparation-brand names made some content harder for researchers to find. The method improved recall while limiting precision loss; the study concerns research retrieval, not observed patient search behavior.
@@ -67,8 +61,15 @@ Measurement also requires checking what a computational output means. In my firs
 
 AI-generated answers now make the information question more urgent. I supervise a student-led longitudinal audit of Google AI Overviews across English and Spanish queries, examining whether answers appear and how stable their responses and cited sources are over time. The full paper is under review at ICWSM 2027. A separate study of health queries examines how AI Overviews present uncertainty, guidance, and safeguards, and how that content relates to the question asked. Describing answer content is a necessary step before making claims about its effects on readers.
 
+</section>
+
+<section class="content-module" markdown="1">
+<div class="module-kicker">Research pillar 04</div>
+
 ## Impact
 
 The last question is what information means for understanding and action. In a collaborative [American Journal of Preventive Medicine study](https://doi.org/10.1016/j.amepre.2025.107998), I helped analyze adults' written reactions to cannabis health warnings. Guided by the Extended Parallel Process Model, we combined topic modeling and human coding with statistical analysis. Maladaptive reactions were associated with greater reactance, less accurate beliefs about cannabis harms, and lower intentions to prevent harm. The study examines audience responses; those associations do not establish that the reactions caused the beliefs or intentions.
 
 My 2020 “fake news” study likewise links a public credibility practice to an attitude, affective polarization, without claiming a causal effect. I am extending this part of the program through research on AI health answers. An experiment in development, grounded in uncertainty management theory, will test whether connecting an uncertain claim to possible next steps changes how readers understand the answer. The proposed study asks a specific communication question: when evidence is incomplete, can an answer clarify both what remains unresolved and what a person might reasonably do next? Its results are still to come.
+
+</section>

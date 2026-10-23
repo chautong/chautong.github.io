@@ -3,35 +3,6 @@ title: "Teaching"
 permalink: /teaching/
 ---
 
-<style>
-  .teaching-lead { font-size: 1.08rem; line-height: 1.7; max-width: 52rem; }
-  .teaching-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1rem; margin: 1.25rem 0 2rem; }
-  .course-card, .teaching-exhibit { border: 1px solid #d7dce2; border-radius: 4px; padding: 1.1rem 1.2rem; background: #fff; }
-  .course-card h3, .teaching-exhibit h3 { margin-top: 0; margin-bottom: .25rem; }
-  .course-meta { color: #59636e; font-size: .9rem; margin-bottom: .7rem; }
-  .course-tags { color: #45515c; font-size: .82rem; letter-spacing: .01em; }
-  .principle { border-left: 3px solid #4b6577; padding-left: 1rem; margin: 1.25rem 0; }
-  .principle h3 { margin-bottom: .25rem; }
-  .process { display: flex; align-items: stretch; gap: .45rem; margin: 1rem 0; }
-  .process-step { flex: 1; border-top: 3px solid #4b6577; background: #f3f5f6; padding: .75rem; min-width: 0; }
-  .process-step strong { display: block; margin-bottom: .3rem; }
-  .process-arrow { display: flex; align-items: center; color: #68737e; font-weight: 700; }
-  .split-paths { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1rem; }
-  .path { background: #f3f5f6; padding: .9rem 1rem; }
-  .path h4 { margin-top: 0; }
-  .path ol { margin-bottom: 0; }
-  .curriculum-map { width: 100%; border-collapse: collapse; font-size: .9rem; }
-  .curriculum-map th { background: #eef1f3; text-align: left; }
-  .curriculum-map th, .curriculum-map td { border: 1px solid #d7dce2; padding: .65rem; vertical-align: top; }
-  .earlier-teaching { background: #f6f7f8; padding: 1rem 1.2rem; }
-  @media (max-width: 760px) {
-    .teaching-grid, .split-paths { grid-template-columns: 1fr; }
-    .process { flex-direction: column; }
-    .process-arrow { justify-content: center; transform: rotate(90deg); }
-    .curriculum-map { font-size: .82rem; }
-    .curriculum-map th, .curriculum-map td { padding: .45rem; }
-  }
-</style>
 
 <p class="teaching-lead">I teach students to investigate communication in rapidly changing technological environments. Across journalism and data science, my courses connect theory, research design, and computational methods while asking students to examine what evidence can—and cannot—establish.</p>
 

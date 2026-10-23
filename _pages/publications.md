@@ -9,9 +9,13 @@ My research examines how people, platforms, and AI shape public information in h
 
 ## Selected contributions
 
-- **Computational measurement:** The [AURA workflow](https://doi.org/10.1177/16094069261486252) evaluates whether machine-generated topics align with human-coded themes and whether they add useful analytic insight.
-- **Information access and inequality:** A [Journal of Medical Internet Research study](https://doi.org/10.2196/63864) examines the supply and potential network exposure of colorectal-cancer racial-equity information.
-- **Algorithmic gatekeeping:** A sole-authored [WebSci 2025 paper](https://doi.org/10.1145/3717867.3717888) separates the role of query framing from the sources Google returns across political searches.
+<div class="selected-grid">
+  <article class="selected-card"><strong>Computational measurement</strong><p>The <a href="https://doi.org/10.1177/16094069261486252">AURA workflow</a> evaluates whether machine-generated topics align with human-coded themes and add useful analytic insight.</p></article>
+  <article class="selected-card"><strong>Information access and inequality</strong><p>A <a href="https://doi.org/10.2196/63864">Journal of Medical Internet Research study</a> examines the supply and potential network exposure of colorectal-cancer racial-equity information.</p></article>
+  <article class="selected-card"><strong>Algorithmic gatekeeping</strong><p>A sole-authored <a href="https://doi.org/10.1145/3717867.3717888">WebSci 2025 paper</a> separates the role of query framing from the sources Google returns across political searches.</p></article>
+</div>
+
+<section class="publication-group" markdown="1">
 
 ## Peer-reviewed journal articles
 
@@ -29,17 +33,31 @@ My research examines how people, platforms, and AI shape public information in h
 12. **Tong, C.**, Gill, H., Li, J., Valenzuela, S., & Rojas, H. (2020). “Fake news is anything they say!” Conceptualization and weaponization of fake news among the American public. *Mass Communication and Society, 23*(5), 755–778. [https://doi.org/10.1080/15205436.2020.1789661](https://doi.org/10.1080/15205436.2020.1789661)
 13. Xia, Y., Lukito, J., Zhang, Y., Wells, C., Kim, S. J., & **Tong, C.** (2019). Disinformation, performed: Self-presentation of a Russian IRA account on Twitter. *Information, Communication & Society, 22*(11), 1646–1664. [https://doi.org/10.1080/1369118X.2019.1621921](https://doi.org/10.1080/1369118X.2019.1621921)
 
+</section>
+
+<section class="publication-group" markdown="1">
+
 ## Peer-reviewed conference proceedings
 
 1. **Tong, C.** (2025). Searching for BLM: Google search results during the 2020 Black Lives Matter protests. In *Adjunct Proceedings of the 33rd ACM Conference on User Modeling, Adaptation and Personalization (UMAP Adjunct ’25)*. ACM. [https://doi.org/10.1145/3708319.3733704](https://doi.org/10.1145/3708319.3733704)
 2. **Tong, C.** (2025). Unite or divide? Biased search queries and Google Search results in polarized politics. In *Proceedings of the 17th ACM Web Science Conference 2025 (WebSci ’25)*, 158–168. ACM. [https://doi.org/10.1145/3717867.3717888](https://doi.org/10.1145/3717867.3717888)
 
+</section>
+
+<section class="publication-group" markdown="1">
+
 ## Editorially reviewed journal letter
 
 King, A. J., Margolin, D., **Tong, C.**, Chunara, R., & Niederdeppe, J. (2023). Making sense of social media data about colorectal cancer screening. *Journal of the American College of Radiology, 21*(4), 543–544. [https://doi.org/10.1016/j.jacr.2023.06.045](https://doi.org/10.1016/j.jacr.2023.06.045)
 
+</section>
+
+<section class="publication-group" markdown="1">
+
 ## Book reprint
 
 **Tong, C.**, Gill, H., Li, J., Valenzuela, S., & Rojas, H. (2021). “Fake News Is Anything They Say!” Conceptualization and Weaponization of Fake News among the American Public. In D. Pompper & L. Hoffman (Eds.), *What IS News?* Routledge. Reprinted from *Mass Communication and Society, 23*(5), 755–778 (2020). [Publisher page](https://www.routledge.com/What-IS-News/Pompper-Hoffman/p/book/9781032010298)
+
+</section>
 
 For manuscripts under review, research presentations, and invited talks, see my [complete CV](/cv/).
