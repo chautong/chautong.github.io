@@ -660,6 +660,152 @@ button:focus-visible {
   margin: 1rem 0 2rem;
 }
 
+/* Lab page */
+.lab-intro {
+  border-bottom-color: $site-teal;
+}
+
+.lab-intro > p {
+  margin-bottom: 0.65rem;
+}
+
+.lab-intro > p + p {
+  color: #344a55;
+  font-family: $global-font-family;
+  font-size: 0.98rem;
+  line-height: 1.65;
+}
+
+.lab-question blockquote {
+  font-size: clamp(1.15rem, 2vw, 1.5rem);
+}
+
+.lab-card {
+  overflow: hidden;
+  padding: 1.25rem 1.35rem 1.35rem;
+  position: relative;
+}
+
+.lab-card:nth-child(2) {
+  border-top-color: $site-red;
+}
+
+.lab-card__number {
+  color: rgba($site-red, 0.16);
+  font-family: $header-font-family;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1;
+  position: absolute;
+  right: 0.9rem;
+  top: 0.65rem;
+}
+
+.lab-card h3 {
+  margin: 0 3rem 0.2rem 0;
+  position: relative;
+}
+
+.lab-profile-link {
+  display: inline-block;
+  font-size: 0.8rem;
+  font-weight: 700;
+  margin-top: 0.3rem;
+  text-decoration: none;
+}
+
+.lab-milestone {
+  align-items: start;
+  background: $site-ink;
+  border-radius: 2px;
+  color: #f7f3ea;
+  display: grid;
+  gap: 1.25rem;
+  grid-template-columns: auto 1fr;
+  margin: 2.75rem 0;
+  padding: 1.4rem 1.5rem 1.5rem;
+  position: relative;
+}
+
+.lab-milestone:before {
+  background: $site-red;
+  content: "";
+  height: 4px;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.lab-milestone__date {
+  color: $site-red;
+  font-family: $header-font-family;
+  font-size: clamp(2rem, 5vw, 3.5rem);
+  font-weight: 700;
+  letter-spacing: -0.05em;
+  line-height: 1;
+}
+
+.lab-milestone h2 {
+  color: #fff;
+  font-size: 1.25rem;
+  margin: 0.2rem 0 0.55rem;
+  padding: 0;
+}
+
+.lab-milestone h2:after {
+  display: none;
+}
+
+.lab-milestone p {
+  color: #e9e5dc;
+  font-size: 0.9rem;
+  line-height: 1.6;
+  margin-bottom: 0.65rem;
+}
+
+.lab-milestone a {
+  color: #fff;
+  font-size: 0.82rem;
+  font-weight: 700;
+}
+
+.placement {
+  align-items: start;
+  display: grid;
+  gap: 0.8rem;
+  grid-template-columns: auto 1fr;
+}
+
+.placement__mark {
+  color: $site-red;
+  font-size: 1.25rem;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.placement__destination {
+  color: $site-muted;
+  display: block;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.035em;
+  margin-top: 0.12rem;
+  text-transform: uppercase;
+}
+
+.placement p {
+  font-size: 0.87rem;
+  line-height: 1.55;
+  margin: 0.4rem 0 0;
+}
+
+@media (max-width: 600px) {
+  .lab-milestone {
+    grid-template-columns: 1fr;
+  }
+}
+
 /* Teaching-page vermilion accents */
 .teaching-grid .course-card {
   border-top-color: $site-red;
