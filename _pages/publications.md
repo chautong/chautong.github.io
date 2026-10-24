@@ -1,21 +1,36 @@
 ---
-layout: archive
+layout: single
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-<div class="page-kicker">01 / Scholarly record</div>
+<div class="page-kicker">01 / Selected studies</div>
 
-My research examines how people, platforms, and AI shape public information in health and politics. The publications below are organized by product type so that journal articles, archival conference proceedings, and other scholarly products remain distinct. My name appears in **bold**. See [Google Scholar](https://scholar.google.com/citations?user=-oDmvvQAAAAJ&hl=en) for citation data and the [CV](/cv/) for manuscripts under review and conference presentations.
+My research examines how people and platforms shape access to information, credibility, and inequality. Selected studies appear first, followed by the full publication list. My name is in **bold** in the citations. See my [CV](/cv/) for manuscripts under review and presentations.
 
-## Selected contributions
+<article class="paper-feature" id="health-information-retrieval">
+  <div class="paper-feature__heading"><div class="module-kicker">Computational health communication</div><h2>What does a clinical search term miss?</h2></div>
+  {% include research/retrieval-visual.html %}
+  <div class="paper-feature__body"><p>I developed a retrieval method combining word embeddings, recommendation networks, and human review. It finds relevant health content expressed in colloquial language and gives researchers a way to assess the tradeoff between finding more content and retaining relevance.</p>
+  <div class="paper-meta"><span>First &amp; corresponding author</span><span>JMIR Medical Informatics · 2022</span><a href="https://doi.org/10.2196/37862">Read article <span aria-hidden="true">↗</span></a></div></div>
+</article>
 
-<div class="selected-grid">
-  <article class="selected-card"><strong>Computational measurement</strong><p>The <a href="https://doi.org/10.1177/16094069261486252">AURA workflow</a> evaluates whether machine-generated topics align with human-coded themes and add useful analytic insight.</p></article>
-  <article class="selected-card"><strong>Information access and inequality</strong><p>A <a href="https://doi.org/10.2196/63864">Journal of Medical Internet Research study</a> examines the supply and potential network exposure of colorectal-cancer racial-equity information.</p></article>
-  <article class="selected-card"><strong>Algorithmic gatekeeping</strong><p>A sole-authored <a href="https://doi.org/10.1145/3717867.3717888">WebSci 2025 paper</a> separates the role of query framing from the sources Google returns across political searches.</p></article>
+<div class="contribution-pair publication-pair">
+  <article id="political-search"><div class="module-kicker">Algorithmic gatekeeping</div><h2>The query matters.</h2><p>Across three political topics, query wording was the primary source of differences in Google results, while authoritative sources appeared across searches. This sole-authored audit distinguishes the role of user input from algorithmic selection.</p><div class="paper-meta"><span>Sole author · ACM WebSci · 2025</span><a href="https://doi.org/10.1145/3717867.3717888">Read article <span aria-hidden="true">↗</span></a></div></article>
+  <article class="contribution-pair__accent" id="credibility"><div class="module-kicker">Credibility and political identity</div><h2>“Fake news” as an accusation</h2><p>I developed and led a survey-based study distinguishing descriptions of false content from accusations against political and media opponents. Politicized definitions were associated with affective polarization, showing why credibility labels deserve study as acts of political communication.</p><div class="paper-meta"><span>First author · Mass Communication and Society · 2020</span><a href="https://doi.org/10.1080/15205436.2020.1789661">Read article <span aria-hidden="true">↗</span></a></div></article>
 </div>
+
+<article class="paper-feature" id="health-information-equity">
+  <div class="paper-feature__heading"><div class="module-kicker">Health information and inequality</div><h2>What information is available to circulate?</h2></div>
+  {% include research/content-atlas.html %}
+  <div class="paper-feature__body"><p>I led the study’s conceptual framing, design, and analyses. By examining post content alongside broker accounts and follower networks, the study connects the supply of colorectal-cancer equity information with opportunities for exposure.</p>
+  <div class="paper-meta"><span>First &amp; corresponding author</span><span>Journal of Medical Internet Research · 2025</span><a href="https://doi.org/10.2196/63864">Read article <span aria-hidden="true">↗</span></a></div></div>
+</article>
+
+<article class="method-feature" id="computational-validation"><div class="module-kicker">Computational measurement · 2026</div><h2>Evaluating machine-generated topics</h2><p>Our AURA workflow asks whether machine-generated topics correspond with human-coded themes and whether domain experts find them useful. The two checks help researchers interpret what a topic model contributes to a qualitative analysis.</p><div class="paper-meta"><span>First author · International Journal of Qualitative Methods</span><a href="https://doi.org/10.1177/16094069261486252">Read article <span aria-hidden="true">↗</span></a></div></article>
+
+<div class="page-kicker publication-ledger-label">02 / Full publication list</div>
 
 <section class="publication-group" markdown="1">
 

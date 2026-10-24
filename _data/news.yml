@@ -1,0 +1,27 @@
+- date: 2026-10-16
+  display_date: Oct. 16, 2026
+  type: Invited talk
+  title: When Google Answers Health Questions
+  summary: Presented current research on uncertainty, guidance, and safeguards in Google AI Overviews at the Missouri School of Journalism Brown Bag Research Colloquium.
+
+- date: 2026-09-10
+  display_date: Sept. 10, 2026
+  type: Invited seminar
+  title: From concepts to classification
+  summary: Spoke in the J9000 Doctoral Theory Seminar about what machine learning and large language models can—and cannot—do for social-science measurement.
+
+- date: 2026-09-02
+  display_date: Sept. 2, 2026
+  type: New publication
+  title: AURA workflow published
+  summary: Our six-stage workflow for evaluating the alignment and usefulness of machine-generated topics appeared open access in the International Journal of Qualitative Methods.
+  url: https://doi.org/10.1177/16094069261486252
+  link_label: Read the article
+
+- date: 2026-04-13
+  display_date: Apr. 13, 2026
+  type: Student recognition
+  title: Krishna Karra receives the Award for Academic Distinction
+  summary: Missouri recognized Krishna’s academic work beyond the classroom. I nominated him after supervising his independent research in computer science.
+  url: https://engineering.missouri.edu/2026/three-mizzou-engineering-undergrads-receive-campus-awards/
+  link_label: Read the profile

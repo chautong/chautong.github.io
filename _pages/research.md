@@ -7,7 +7,7 @@ author_profile: true
 
 <div class="page-kicker">01 / Research program</div>
 
-I am a computational communication scholar studying how people and digital platforms shape public information in health and politics.
+I lead a computational communication research program on how people and digital platforms shape public information in health and politics. Across projects, my group connects communication theory with platform audits, language and network analysis, human validation, surveys, and experiments.
 
 <aside class="central-question">
   <div class="module-kicker">The central question</div>
@@ -18,12 +18,12 @@ I am a computational communication scholar studying how people and digital platf
 
 <figure class="research-program-figure">
   <picture>
-    <source media="(max-width: 700px)" srcset="/images/research/research-program-path-mobile.svg?v=20261023-3">
-    <img src="/images/research/research-program-path.svg?v=20261023-3" alt="Four connected questions organize the research: People, who produces and shares information? Platform and social curation, what becomes visible, amplified, or hidden? Information, what do people encounter and how can it be measured? Impact, how does information relate to understanding and action?">
+    <source media="(max-width: 700px)" srcset="/images/research/research-program-path-mobile.svg">
+    <img src="/images/research/research-program-path.svg" alt="Four connected questions organize the research: People, who produces and shares information? Platform and social curation, what becomes visible, amplified, or hidden? Information, what do people encounter and how can it be measured? Impact, how does information relate to understanding and action?">
   </picture>
 </figure>
 
-These questions connect studies of political search, health information, credibility, and AI-generated answers. They also mark an important difference in evidence: observing what a platform displays, estimating who could encounter it, and testing what people understand or do require different methods. My current work on AI-generated health answers brings those questions together.
+These questions connect studies of political search, health information, credibility, and AI-generated answers. Across this work, I distinguish the information a platform makes available, the opportunities people have to encounter it, and how they respond.
 
 <section class="content-module" markdown="1">
 <div class="module-kicker">Research pillar 01</div>
@@ -47,10 +47,7 @@ Social connections are another form of curation. Drawing on the public communica
 
 The same study also shows a gap in the information available to circulate: outcome disparities and calls to action were much more common than practical screening information or symptoms in the posts we coded.
 
-<figure>
-  <img src="/images/research/crc-equity-content-published.png" loading="lazy" width="1800" height="846" alt="Selected nonexclusive content categories among 1,134 colorectal-cancer posts mentioning a historically minoritized racial group: outcome disparity, 641 posts or 56.5%; call to action, 505 or 44.5%; screening information, 159 or 14.0%; symptoms, 11 or 1.0%." style="max-width:100%;height:auto;">
-  <figcaption>Selected, nonexclusive categories among 1,134 likely equity-related posts; mentioning a racial group did not necessarily mean advocating equity. Data: <a href="https://doi.org/10.2196/63864">Tong et al. (2025), Table 3</a>.</figcaption>
-</figure>
+{% include research/content-atlas.html %}
 
 </section>
 
@@ -61,10 +58,7 @@ The same study also shows a gap in the information available to circulate: outco
 
 To study what is available, I first have to make the information environment observable. In a first-authored [JMIR Medical Informatics study](https://doi.org/10.2196/37862), I combined word embeddings, recommendation networks, and human relevance judgments to retrieve health-related YouTube videos that clinical seed terms could miss. Colloquial terms and preparation-brand names made some content harder for researchers to find. The method improved recall while limiting precision loss; the study concerns research retrieval, not observed patient search behavior.
 
-<figure>
-  <img src="/images/research/youtube-retrieval-published.png" loading="lazy" width="1800" height="846" alt="Among 51 relevant videos in a 150-video validation sample retrieved with expanded terms, 30 mentioned colonoscopy and 21 did not. The 21 videos, 41% of relevant videos, would be missed by that clinical term alone." style="max-width:100%;height:auto;">
-  <figcaption>Human review of a 150-video validation sample. The 21 videos missing the clinical term were 41% of the 51 relevant videos in that sample; this is a research-retrieval result, not a patient-search estimate. Data: <a href="https://doi.org/10.2196/37862">Tong et al. (2022), Table 2</a>.</figcaption>
-</figure>
+{% include research/retrieval-visual.html %}
 
 Measurement also requires checking what a computational output means. In my first-authored [International Journal of Qualitative Methods article](https://doi.org/10.1177/16094069261486252), my collaborators and I introduced the Alignment and Usefulness Rating Audit, or AURA. It compares machine-generated topics with human-coded themes and asks researchers to assess their analytic usefulness. The demonstration found broad correspondence, alongside limited evidence of additional thematic discovery. Alignment, usefulness, and new insight are separate claims, and the method evaluates each on its own terms.
 
@@ -79,6 +73,23 @@ AI-generated answers now make the information question more urgent. I supervise 
 
 The last question is what information means for understanding and action. In a collaborative [American Journal of Preventive Medicine study](https://doi.org/10.1016/j.amepre.2025.107998), I helped analyze adults' written reactions to cannabis health warnings. Guided by the Extended Parallel Process Model, we combined topic modeling and human coding with statistical analysis. Maladaptive reactions were associated with greater reactance, less accurate beliefs about cannabis harms, and lower intentions to prevent harm. The study examines audience responses; those associations do not establish that the reactions caused the beliefs or intentions.
 
-My 2020 “fake news” study likewise links a public credibility practice to an attitude, affective polarization, without claiming a causal effect. I am extending this part of the program through research on AI health answers. An experiment in development, grounded in uncertainty management theory, will test whether connecting an uncertain claim to possible next steps changes how readers understand the answer. The proposed study asks a specific communication question: when evidence is incomplete, can an answer clarify both what remains unresolved and what a person might reasonably do next? Its results are still to come.
+My 2020 “fake news” study also connects credibility judgments with affective polarization. Current work on AI health answers extends these questions to how people understand uncertain information and possible next steps.
 
+</section>
+
+<section class="current-agenda" id="next-questions">
+  <div class="module-kicker">Where the program is going</div>
+  <h2>From AI answers to public understanding</h2>
+  <p>My group is developing a program that connects audits of AI answers with studies of how people interpret them. Longitudinal and multilingual audits establish what information systems provide. Audience research can then examine how uncertainty and guidance shape understanding and decisions.</p>
+</section>
+
+<section class="collaboration-record" id="research-across-fields">
+  <div class="page-kicker">Research across fields</div>
+  <h2>Collaboration through shared questions</h2>
+  <dl class="collaboration-rows">
+    <div><dt>Nursing &amp; IDSI</dt><dd>With John Robert Bautista and Temitope Eyinla, I developed <a href="https://doi.org/10.1177/16094069261486252">AURA</a> using interviews about generative AI in nursing. The project connects health expertise, qualitative interpretation, and computational measurement.</dd></div>
+    <div><dt>IDSI &amp; Computer Science</dt><dd>Temitope Eyinla and Krishna Karra contribute to our longitudinal audit of Google AI Overviews. The work brings health informatics and computing into communication research, from study design to data collection and validation.</dd></div>
+    <div><dt>Journalism, RJI &amp; Statistics</dt><dd>Research with Joy Jenkins, Damon Kiesow, and Michael Hatley examines networks of sites presented as local news. This <a href="https://journalism.missouri.edu/2025/04/the-surprising-truth-about-pink-slime-journalism/">collaboration on pink-slime journalism</a> connects questions about political visibility with large-scale content analysis.</dd></div>
+  </dl>
+  <a class="text-link-arrow" href="mailto:ctong@missouri.edu?subject=Research%20collaboration">Discuss a collaboration <span aria-hidden="true">↗</span></a>
 </section>
