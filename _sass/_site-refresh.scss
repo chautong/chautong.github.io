@@ -1524,3 +1524,6 @@ button:focus-visible {
   .mark-legend { font-size: 0.67rem; }
   .current-agenda { padding: 1.2rem; }
 }
+
+/* Keep full DOI links within the publication ledger on small screens. */
+.publication-group a { overflow-wrap: anywhere; }
