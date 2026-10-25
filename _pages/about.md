@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2026-10-24
+last_modified_at: "2026-10-25T05:09:01+00:00"
 permalink: /
 title: "Chau Tong"
 excerpt: "Computational communication research on information access, credibility, and inequality in health and politics."
@@ -22,7 +22,7 @@ redirect_from:
 <p class="positioning-statement">I study how search, social platforms, and generative AI shape the information people find and the claims they trust. At Missouri, I lead the Computational Communication Technology Lab, where we examine information access, credibility, and inequality in health and politics.</p>
 
 <section class="brief-bio" markdown="1">
-I am an assistant professor of Strategic Communication, jointly appointed in the [Missouri School of Journalism](https://journalism.missouri.edu/people/chau-tong/) and the [Institute for Data Science & Informatics](https://muidsi.missouri.edu/person/chau-tong/). Originally from Hanoi, I earned my M.A. at Ewha Womans University and my Ph.D. at the University of Wisconsin–Madison, advised by Hernando Rojas. At Cornell, my postdoctoral mentors were Jeff Niederdeppe and Drew Margolin.
+I am an assistant professor of Strategic Communication, jointly appointed in the [Missouri School of Journalism](https://journalism.missouri.edu/people/chau-tong/) and the [Institute for Data Science & Informatics](https://muidsi.missouri.edu/person/chau-tong/). Originally from Hanoi, I earned my M.A. at Ewha Womans University and my Ph.D. at the University of Wisconsin–Madison, advised by Dr. Hernando Rojas. At Cornell, my postdoctoral mentors were Drs. Jeff Niederdeppe and Drew Margolin.
 </section>
 
 <nav class="page-actions lead-actions" aria-label="Explore my work">
