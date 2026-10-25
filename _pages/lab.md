@@ -1,8 +1,8 @@
 ---
-last_modified_at: 2026-10-24
+last_modified_at: "2026-10-25T05:01:56+00:00"
 title: "CCT Lab"
 permalink: /lab/
-excerpt: "Work with the Computational Communication Technology Lab on consequential questions about people, platforms, public information, and AI."
+excerpt: "Work with the Computational Communication Technology Lab on people, platforms, public information, and AI in health and politics."
 author_profile: true
 ---
 
@@ -10,8 +10,8 @@ author_profile: true
 
 <section class="editorial-intro lab-intro">
   <div class="module-kicker">CCT Lab · University of Missouri</div>
-  <p>I direct the Computational Communication Technology Lab (CCT), an interdisciplinary research group studying how people encounter consequential information through search, social platforms, journalism, and AI.</p>
-  <p>Students from journalism, communication, informatics, computer science, data science, and statistics contribute to projects in health and political communication while developing research skills they can use across projects and careers.</p>
+  <p>I direct the Computational Communication Technology Lab (CCT). We study how search, social platforms, journalism, and AI shape public information in health and politics.</p>
+  <p>Students bring backgrounds in journalism, communication, informatics, computer science, data science, and statistics. They develop research skills through projects that connect these fields.</p>
 </section>
 
 <section class="join-banner">
@@ -39,13 +39,13 @@ author_profile: true
 ## What the work involves
 
 <div class="work-path">
-  <div><span>Frame</span><p>Develop a consequential question and connect it to communication theory.</p></div>
+  <div><span>Frame</span><p>Develop a research question and connect it to communication theory.</p></div>
   <div><span>Build</span><p>Collect and organize the data needed to answer the research question.</p></div>
   <div><span>Test</span><p>Choose methods deliberately, validate outputs, and examine alternative explanations.</p></div>
   <div><span>Communicate</span><p>Write for publication, present the findings, and explain the contribution and its scope.</p></div>
 </div>
 
-Typical contributions include literature synthesis, web and API data collection, data labeling, computational pipeline development, qualitative and quantitative analysis, visualization, and manuscript preparation. Depending on the question, projects may use Python or R, natural language processing, network analysis, content analysis, surveys, experiments, interviews, or mixed methods. I value intellectual fit, curiosity, and a serious commitment to learning. Students develop technical skills through their research.
+Students contribute to literature reviews, data collection and coding, analysis, visualization, and writing. Projects use Python or R, language and network analysis, surveys, experiments, and interviews as the question requires. I value curiosity, intellectual fit, and a commitment to learning; students develop technical skills through the research.
 
 ## Mentoring and expectations
 
@@ -53,7 +53,7 @@ Typical contributions include literature synthesis, web and API data collection,
   <section class="expectation-card"><h3>Independent thinking</h3><p>I provide structure, feedback, and methodological guidance. Students take increasing ownership of their questions, decisions, deadlines, and scholarly arguments.</p></section>
   <section class="expectation-card"><h3>Publishable research</h3><p>Students learn the full research process and work toward conference presentations, manuscripts, and proposals. We discuss roles and authorship early, then revisit them when contributions change.</p></section>
   <section class="expectation-card"><h3>Careful analysis</h3><p>Students check data quality, evaluate their methods, and support interpretations with evidence. Conclusions should reflect what the study can establish.</p></section>
-  <section class="expectation-card"><h3>Career development</h3><p>Training is shaped around the student’s goals. I support academic and nonacademic paths and encourage experience in research, teaching, grant writing, professional meetings, and collaboration beyond this group.</p></section>
+  <section class="expectation-card"><h3>Career development</h3><p>I support academic and nonacademic paths. Students build experience in research, teaching, grant writing, and collaboration according to their goals.</p></section>
 </div>
 
 <section class="ai-principle">

@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2026-10-24
+last_modified_at: "2026-10-25T05:01:56+00:00"
 title: "Teaching"
 excerpt: "Chau Tong’s teaching in strategic communication research, emerging technologies, natural language processing, and communication networks at Missouri."
 permalink: /teaching/
@@ -10,7 +10,7 @@ permalink: /teaching/
 
 <p class="teaching-lead">I teach students to investigate communication through theory, research design, and computational methods. Across journalism and data science, they learn to turn a substantive question into evidence and an argument they can defend.</p>
 
-<p class="teaching-lead">My courses serve students with different disciplinary backgrounds and levels of technical preparation. I use scaffolded projects, applied exercises, coding labs, case discussions, and peer feedback to help students move from concepts to defensible research decisions. Whether students are designing a survey, analyzing language or networks, or evaluating a generative AI system, I want them to develop the judgment to use emerging methods responsibly and explain their limitations clearly.</p>
+<p class="teaching-lead">Students enter my courses with different disciplinary backgrounds and technical experience. Through staged projects, coding labs, case discussions, and peer feedback, they learn to choose methods, evaluate results, and explain their research decisions.</p>
 
 ## Courses at Missouri
 
@@ -18,28 +18,28 @@ permalink: /teaching/
   <section class="course-card">
     <h3>Emerging Technologies</h3>
     <div class="course-meta">JOURN 7462 · Missouri School of Journalism · 2023–2026</div>
-    <p>I rebuilt this course around generative AI literacy and the changing role of technological systems in journalism. Students examine AI and machine learning in relation to credibility, ethics, professional responsibility, platform governance, and media organizations. The course combines critical reading with documented experimentation: students maintain a weekly log of AI prompts and outcomes while developing an independent research proposal intended for publication.</p>
+    <p>I rebuilt this course around generative AI and its role in journalism. Students examine credibility, ethics, professional responsibility, and platform governance through critical reading and guided experimentation. A weekly log of AI prompts and outcomes supports an independent research proposal intended for publication.</p>
     <div class="course-tags">Generative AI · Journalism · Technology ethics · Online learning</div>
   </section>
 
   <section class="course-card">
     <h3>Strategic Communication Research Methods</h3>
     <div class="course-meta">JOURN 4952 · Missouri School of Journalism · 2025–2026</div>
-    <p>Students learn to use research to make defensible strategic communication decisions. Working in teams, they progress from secondary research to survey design, detailed interviews, data interpretation, and a client report grounded in evidence. Individual artifacts and peer accountability preserve each student's responsibility within the collaborative process.</p>
+    <p>Student teams move from secondary research to surveys, interviews, and a client report grounded in evidence. Individual assignments and peer feedback keep each student involved in the research decisions and the final recommendation.</p>
     <div class="course-tags">Research design · Surveys · Interviews · Decisions grounded in evidence</div>
   </section>
 
   <section class="course-card">
     <h3>Introduction to Natural Language Processing with Generative AI</h3>
     <div class="course-meta">DATA_SCI 8001 · Institute for Data Science and Informatics · 2024</div>
-    <p>This graduate course introduces natural language processing for computational social science. Students work with texts from social media, politics, and news; learn preprocessing, dictionary methods, embeddings, machine learning, information extraction, and large language models; and examine the epistemic, legal, and ethical questions these methods raise. A scaffolded research project moves from an idea pitch of 300 words to a proposal draft and a completed paper or study proposal.</p>
+    <p>Students use natural language processing to study social media, political communication, and news. The course covers text preparation, dictionary methods, embeddings, machine learning, information extraction, and large language models, alongside questions of measurement, law, and ethics. A staged project develops from an idea pitch into a research paper or study proposal.</p>
     <div class="course-tags">NLP · Text analysis · Machine learning · LLMs</div>
   </section>
 
   <section class="course-card">
     <h3>Communication Network Analytics</h3>
     <div class="course-meta">DATA_SCI 8220 · Institute for Data Science and Informatics · 2025–2026</div>
-    <p>This graduate course connects network theory to computational analysis of communication systems. Students construct and visualize networks, assess centrality and connectivity, compare network models, identify communities, examine link prediction and diffusion, and apply these techniques to digital trace data. The course culminates in an independently designed network analysis project.</p>
+    <p>Students connect network theory with the analysis of communication systems. They build and visualize networks, study centrality and communities, compare models, and examine prediction and diffusion using digital trace data. Each student designs an independent network analysis project.</p>
     <div class="course-tags">Network analysis · Communication systems · Python · Digital platforms</div>
   </section>
 </div>
@@ -48,12 +48,12 @@ permalink: /teaching/
 
 <section class="principle">
   <h3>From concepts to evidence</h3>
-  <p>Students should understand the relationship among a theoretical concept, its operationalization, the data used to represent it, and the claim produced by an analysis. Students explain how their methodological choices support the interpretation of their results.</p>
+  <p>I ask students to trace a claim back to its concept, measure, and data. They explain how their methodological choices support the interpretation of their results.</p>
 </section>
 
 <section class="principle">
   <h3>Learning through structured practice</h3>
-  <p>I sequence short practice exercises into larger research tasks: question development, method selection, data collection, analysis, validation, interpretation, and communication. Coding labs, survey exercises, case analysis, structured peer feedback, and project checkpoints give students repeated opportunities to apply ideas and receive guidance.</p>
+  <p>Short exercises build toward larger research tasks. Coding labs, surveys, case analysis, and project checkpoints give students repeated opportunities to apply ideas, receive feedback, and revise their work.</p>
 </section>
 
 <section class="principle">

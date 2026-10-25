@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2026-10-24
+last_modified_at: "2026-10-25T05:01:56+00:00"
 permalink: /research/
 title: "Research"
 excerpt: "How people, platforms, and AI shape information and its consequences in health and politics."
@@ -8,7 +8,7 @@ author_profile: true
 
 <div class="page-kicker">01 / Research program</div>
 
-My research examines how information gains visibility and authority, and how those processes shape inequality in health and politics. I connect the choices of people, news organizations, and platforms with the information available to different publics. I want this work to explain who gets to shape public knowledge and whose information needs are served.
+My research connects the production and selection of public information with how people encounter and judge it. Across health, politics, and journalism, I examine who gains visibility and credibility, and whose information needs are met.
 
 <nav class="theory-index" aria-label="Conceptual contributions">
   <div class="module-kicker">Conceptual contributions</div>
@@ -35,7 +35,7 @@ These four questions organize studies of political search, health information, c
 
 Accusations of “fake news” against political and media opponents were associated with affective polarization in my [Mass Communication and Society study](https://doi.org/10.1080/15205436.2020.1789661). I distinguished these accusations from definitions describing false content, and led the conceptual framing, survey design, and analysis of open responses. The study treats credibility labels as acts of political communication, connecting factual judgments with partisan identity and efforts to discredit opponents.
 
-Related collaborative work in [PLOS ONE](https://doi.org/10.1371/journal.pone.0328550) develops a typology of how people object to news commentary. My manuscript with Tanner Smith, under review at *Political Communication*, examines framing and nationalization in pink slime outlets presented as local news. Both projects examine how people contest the legitimacy of public information.
+Collaborative studies extend this question to [Russian disinformation](https://doi.org/10.5117/CCR2022.2.008.SUK), [musicians’ political expression](https://doi.org/10.1177/20563051211019013), and [objections to news commentary](https://doi.org/10.1371/journal.pone.0328550). They examine the sources, public figures, and participants shaping political discourse. My manuscript with Tanner Smith, under review at *Political Communication*, examines framing and nationalization in pink slime outlets presented as local news.
 
 </section>
 
@@ -44,7 +44,7 @@ Related collaborative work in [PLOS ONE](https://doi.org/10.1371/journal.pone.03
 
 ## Platform and social curation
 
-Query slant was the primary source of differences in Google results across the three political topics examined in my [WebSci 2025 study](https://doi.org/10.1145/3717867.3717888). Authoritative sources appeared across searches. As sole author, I separated query choices from variation associated with users' political identities, changing how we interpret apparent search bias. A related [UMAP Adjunct paper](https://doi.org/10.1145/3708319.3733704) examines search results during the 2020 Black Lives Matter protests.
+Query slant was the primary source of differences in Google results across the three political topics examined in my [WebSci 2025 study](https://doi.org/10.1145/3717867.3717888). Authoritative sources appeared across searches. As sole author, I separated query choices from variation associated with users' political identities, changing how we interpret apparent search bias. A related [UMAP Adjunct paper](https://doi.org/10.1145/3708319.3733704) examines search results during the 2020 Black Lives Matter protests. Collaborative work on [#MeToo news coverage](https://doi.org/10.1177/1940161220968081) extends the selection question to news organizations and differences in attention across the political spectrum.
 
 <div id="health-information-networks" markdown="1">
 Accounts acting as brokers offered connections to colorectal cancer racial equity information for audiences with few other expert ties. My [Journal of Medical Internet Research study](https://doi.org/10.2196/63864) connects this network position with the content available to circulate: practical screening information and symptoms were scarce in the posts we coded. Drawing on the public communication environment framework, I led the conceptual framing, study design, and definitions of equity information disseminators and broker accounts. Brokerage was defined by a majority of followers lacking other expert connections within the studied network, a measure of opportunities for exposure.
@@ -78,7 +78,6 @@ Current work examines how people interpret uncertain AI health answers and possi
 
 </section>
 
-<p class="portfolio-context">Earlier collaborative studies examined <a href="https://doi.org/10.5117/CCR2022.2.008.SUK">source identity and engagement with Russian disinformation</a>, <a href="https://doi.org/10.1177/1940161220968081">news attention to #MeToo</a>, and <a href="https://doi.org/10.1177/20563051211019013">musicians’ political expression</a>. They connect the broader portfolio through questions of who speaks, what attracts attention, and how public claims gain authority.</p>
 
 <section class="current-agenda" id="next-questions">
   <div class="module-kicker">Where the program is going</div>

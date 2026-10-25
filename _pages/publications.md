@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2026-10-24
+last_modified_at: "2026-10-25T05:01:56+00:00"
 layout: single
 title: "Publications"
 excerpt: "Selected studies and publications by Chau Tong on information access, credibility, health, politics, and computational communication."
@@ -11,18 +11,6 @@ author_profile: true
 
 My publications examine how information gains visibility and authority in health, politics, and journalism. Selected studies appear first, followed by the full publication list. My name is in **bold** in the citations. See my [CV](/cv/) for manuscripts under review and presentations.
 
-<article class="paper-feature" id="health-information-retrieval">
-  <div class="paper-feature__heading"><div class="module-kicker">Computational health communication</div><h2>What does a clinical search term miss?</h2><p class="paper-contribution">The retrieval method recovered relevant health videos expressed in language that clinical search terms missed. I led the design and combined word embeddings, recommendation networks, and human review to improve coverage while assessing relevance.</p></div>
-  {% include research/retrieval-visual.html %}
-  <div class="paper-feature__body">
-  <div class="paper-meta"><span>First &amp; corresponding author</span><span>JMIR Medical Informatics · 2022</span><a href="https://doi.org/10.2196/37862">Read article <span aria-hidden="true">↗</span></a></div></div>
-</article>
-
-<div class="contribution-pair publication-pair">
-  <article id="political-search"><div class="module-kicker">Algorithmic gatekeeping</div><h2>The query matters.</h2><p>Query slant was the primary source of differences in Google results across three political topics; authoritative sources appeared across searches. My audit separates query choices from variation associated with users’ political identities, giving a more precise account of apparent search bias.</p><div class="paper-meta"><span>Sole author · ACM WebSci · 2025</span><a href="https://doi.org/10.1145/3717867.3717888">Read article <span aria-hidden="true">↗</span></a></div></article>
-  <article class="contribution-pair__accent" id="credibility"><div class="module-kicker">Credibility and political identity</div><h2>“Fake news” as an accusation</h2><p>Politicized uses of “fake news” were associated with affective polarization. I led the framing and survey design that distinguished accusations against opponents from descriptions of false content, connecting credibility judgments with political identity.</p><div class="paper-meta"><span>First author · Mass Communication and Society · 2020</span><a href="/files/Tong2020.pdf">PDF</a><a href="https://doi.org/10.1080/15205436.2020.1789661">Read article <span aria-hidden="true">↗</span></a></div></article>
-</div>
-
 <article class="paper-feature" id="health-information-equity">
   <div class="paper-feature__heading"><div class="module-kicker">Health information and inequality</div><h2>What information is available to circulate?</h2><p class="paper-contribution">Practical screening information was scarce in the posts we coded, and broker accounts offered connections to audiences with few other expert ties. I led the framing, design, and definitions of disseminator and broker accounts, linking colorectal cancer racial equity content with network measures of exposure opportunities.</p></div>
   {% include research/content-atlas.html %}
@@ -30,7 +18,19 @@ My publications examine how information gains visibility and authority in health
   <div class="paper-meta"><span>First &amp; corresponding author</span><span>Journal of Medical Internet Research · 2025</span><a href="https://doi.org/10.2196/63864">Read article <span aria-hidden="true">↗</span></a></div></div>
 </article>
 
+<div class="contribution-pair publication-pair">
+  <article id="political-search"><div class="module-kicker">Algorithmic gatekeeping</div><h2>The query matters.</h2><p>Query slant was the primary source of differences in Google results across three political topics; authoritative sources appeared across searches. My audit separates query choices from variation associated with users’ political identities, giving a more precise account of apparent search bias.</p><div class="paper-meta"><span>Sole author · ACM WebSci · 2025</span><a href="https://doi.org/10.1145/3717867.3717888">Read article <span aria-hidden="true">↗</span></a></div></article>
+  <article class="contribution-pair__accent" id="credibility"><div class="module-kicker">Credibility and political identity</div><h2>“Fake news” as an accusation</h2><p>Politicized uses of “fake news” were associated with affective polarization. I led the framing and survey design that distinguished accusations against opponents from descriptions of false content, connecting credibility judgments with political identity.</p><div class="paper-meta"><span>First author · Mass Communication and Society · 2020</span><a href="/files/Tong2020.pdf">PDF</a><a href="https://doi.org/10.1080/15205436.2020.1789661">Read article <span aria-hidden="true">↗</span></a></div></article>
+</div>
+
 <article class="method-feature" id="computational-validation"><div class="module-kicker">Computational measurement · 2026</div><h2>What does a topic model contribute?</h2><p>Our AURA demonstration found broad correspondence between model outputs and human coding, with limited additional thematic discovery. The workflow evaluates correspondence, usefulness to experts, and additional discovery separately.</p><div class="paper-meta"><span>First author · International Journal of Qualitative Methods</span><a href="https://doi.org/10.1177/16094069261486252">Read article <span aria-hidden="true">↗</span></a></div></article>
+
+<article class="paper-feature" id="health-information-retrieval">
+  <div class="paper-feature__heading"><div class="module-kicker">Computational health communication</div><h2>What does a clinical search term miss?</h2><p class="paper-contribution">The retrieval method recovered relevant health videos expressed in language that clinical search terms missed. I led the design and combined word embeddings, recommendation networks, and human review to improve coverage while assessing relevance.</p></div>
+  {% include research/retrieval-visual.html %}
+  <div class="paper-feature__body">
+  <div class="paper-meta"><span>First &amp; corresponding author</span><span>JMIR Medical Informatics · 2022</span><a href="https://doi.org/10.2196/37862">Read article <span aria-hidden="true">↗</span></a></div></div>
+</article>
 
 <div class="page-kicker publication-ledger-label">02 / Full publication list</div>
 

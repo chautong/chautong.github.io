@@ -1,16 +1,16 @@
 ---
-last_modified_at: 2026-10-24
+last_modified_at: "2026-10-25T05:01:56+00:00"
 title: "News & Talks"
 permalink: /news-talks/
 redirect_from:
   - /talks/
-excerpt: "Research news, media coverage, invited talks, and recognition for Chau Tong and the CCT Lab."
+excerpt: "Research news, coverage, talks, service, and recognition for Chau Tong and the CCT Lab."
 author_profile: true
 ---
 
 <div class="page-kicker">01 / News and public scholarship</div>
 
-Publications, research coverage, talks, and group news.
+Research news, talks, service, and recognition.
 
 ## Recent updates
 
