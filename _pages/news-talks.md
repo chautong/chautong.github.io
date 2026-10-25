@@ -1,6 +1,6 @@
 ---
-last_modified_at: "2026-10-25T05:01:56+00:00"
-title: "News & Talks"
+last_modified_at: "2026-10-25T05:27:39+00:00"
+title: "News & Recognition"
 permalink: /news-talks/
 redirect_from:
   - /talks/
@@ -8,9 +8,9 @@ excerpt: "Research news, coverage, talks, service, and recognition for Chau Tong
 author_profile: true
 ---
 
-<div class="page-kicker">01 / News and public scholarship</div>
+<div class="page-kicker">01 / Research news and recognition</div>
 
-Research news, talks, service, and recognition.
+Research news, talks, coverage, service, and recognition.
 
 ## Recent updates
 
@@ -51,7 +51,6 @@ Research news, talks, service, and recognition.
 ## Service to the field
 
 <dl class="collaboration-rows service-record">
-  <div><dt>Professional service</dt><dd>ICA Computational Methods Division, Diversity, Equity and Inclusion Task Force, 2022–2026.</dd></div>
   <div><dt>Scholarly reviewing</dt><dd>Journal reviewing includes <em>International Journal of Public Opinion Research</em>, <em>Mass Communication and Society</em>, and <em>Harvard Kennedy School Misinformation Review</em>. Conference reviewing includes ICA, NCA, AEJMC, AAPOR, ICWSM, and the International Conference on Computational Social Science.</dd></div>
   <div><dt>External grant review</dt><dd>External reviewer for the Faculty Development Scheme, Research Grants Council of Hong Kong, 2022.</dd></div>
   <div><dt>Research community</dt><dd>Leading proposal development and team coordination for Missouri Journalism and RJI’s bid to host the 2027 C+J Symposium.</dd></div>

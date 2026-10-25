@@ -1,5 +1,5 @@
 ---
-last_modified_at: "2026-10-25T05:09:01+00:00"
+last_modified_at: "2026-10-25T05:27:39+00:00"
 permalink: /
 title: "Chau Tong"
 excerpt: "Computational communication research on information access, credibility, and inequality in health and politics."
@@ -60,5 +60,5 @@ I am an assistant professor of Strategic Communication, jointly appointed in the
     <article><time datetime="{{ item.date | date: '%Y-%m-%d' }}">{{ item.display_date }}</time><div>{% if item.url %}<a href="{{ item.url }}">{{ item.title }}</a>{% else %}<span>{{ item.title }}</span>{% endif %}</div></article>
   {% endfor %}
   </div>
-  <a class="text-link-arrow" href="/news-talks/">All news and talks <span aria-hidden="true">→</span></a>
+  <a class="text-link-arrow" href="/news-talks/">News and recognition <span aria-hidden="true">→</span></a>
 </section>
