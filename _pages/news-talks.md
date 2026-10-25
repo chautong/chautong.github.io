@@ -1,6 +1,8 @@
 ---
 title: "News & Talks"
 permalink: /news-talks/
+redirect_from:
+  - /talks/
 excerpt: "Research news, media coverage, invited talks, and recognition for Chau Tong and the CCT Lab."
 author_profile: true
 ---

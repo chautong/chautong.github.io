@@ -17,9 +17,8 @@ repository               : "chautong/chautong.github.io"
 teaser                   : "Chau_photo_headshot.jpeg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 300
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : true #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -125,6 +124,22 @@ include:
   - _pages
   - files
 exclude:
+  - .DS_Store
+  - CONTRIBUTING.md
+  - CHANGELOG.md
+  - README.md
+  - markdown_generator
+  - talkmap
+  - _teaching
+  - _publications
+  - _portfolio
+  - _talks
+  - _posts
+  - _drafts
+  - _pages/publications.html
+  - _pages/research.html
+  - _pages/dissertation_md.Rmd
+  - pdf
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
@@ -178,16 +193,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
