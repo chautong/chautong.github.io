@@ -1,4 +1,5 @@
 ---
+last_modified_at: 2026-10-24
 title: "CCT Lab"
 permalink: /lab/
 excerpt: "Work with the Computational Communication Technology Lab on consequential questions about people, platforms, public information, and AI."
@@ -26,7 +27,7 @@ author_profile: true
 
 ## What you could study
 
-<p class="lab-section-lead">The group works across four connected areas. Students may begin with one of these areas, but doctoral students are expected to develop questions and a program of research they can lead.</p>
+<p class="lab-section-lead">The group works across four connected areas. Doctoral students develop their own questions and a program of research, drawing on these areas and the group’s expertise.</p>
 
 <div class="opportunity-grid">
   <article class="opportunity-card"><div class="opportunity-card__number">01</div><h3>AI and algorithmic information systems</h3><p>Audit how search engines and generative AI systems select, synthesize, cite, and communicate public information across topics, languages, and time.</p></article>
@@ -41,10 +42,10 @@ author_profile: true
   <div><span>Frame</span><p>Develop a consequential question and connect it to communication theory.</p></div>
   <div><span>Build</span><p>Collect and organize the data needed to answer the research question.</p></div>
   <div><span>Test</span><p>Choose methods deliberately, validate outputs, and examine alternative explanations.</p></div>
-  <div><span>Communicate</span><p>Write for publication, present the work, and explain its limits as clearly as its contribution.</p></div>
+  <div><span>Communicate</span><p>Write for publication, present the findings, and explain the contribution and its scope.</p></div>
 </div>
 
-Typical contributions include literature synthesis, web and API data collection, data labeling, computational pipeline development, qualitative and quantitative analysis, visualization, and manuscript preparation. Depending on the question, projects may use Python or R, natural language processing, network analysis, content analysis, surveys, experiments, interviews, or mixed methods. Coding experience is useful, but intellectual fit and a serious commitment to learning matter more than arriving with every technique already mastered.
+Typical contributions include literature synthesis, web and API data collection, data labeling, computational pipeline development, qualitative and quantitative analysis, visualization, and manuscript preparation. Depending on the question, projects may use Python or R, natural language processing, network analysis, content analysis, surveys, experiments, interviews, or mixed methods. I value intellectual fit, curiosity, and a serious commitment to learning. Students develop technical skills through their research.
 
 ## Mentoring and expectations
 
@@ -57,8 +58,8 @@ Typical contributions include literature synthesis, web and API data collection,
 
 <section class="ai-principle">
   <div class="module-kicker">AI in research and training</div>
-  <h2>AI can accelerate work you intellectually own. It cannot become the researcher.</h2>
-  <p>Students may use AI to learn, debug, expand a search, implement understood procedures, or critique work they have already developed. They remain responsible for the research question, design, code, evidence, interpretation, and argument. Students must check work assisted by AI and be able to explain the decisions it informs.</p>
+  <h2>Use AI with clear intellectual ownership.</h2>
+  <p>In our research, students can use AI to learn, debug, expand a search, implement procedures they understand, or critique a draft. They check its outputs, explain their research decisions, and take responsibility for the question, evidence, analysis, and argument.</p>
 </section>
 
 ## Pathways at Missouri
@@ -111,7 +112,7 @@ Typical contributions include literature synthesis, web and API data collection,
     <div class="lab-card__number" aria-hidden="true">04</div>
     <h3>Futian Han</h3>
     <div class="lab-role">Doctoral student and research assistant · Missouri School of Journalism</div>
-    <p>Futian joined the Ph.D. program in Fall 2026. She provides computational and technical support for browser extension development and cancer communication research.</p>
+    <p>Futian joined the Ph.D. program in Fall 2026. She provides computational and technical support for browser extension development and cancer communication research in the group’s <a href="/research/#information">information research</a>.</p>
   </article>
 </div>
 

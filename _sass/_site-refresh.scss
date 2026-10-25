@@ -1543,3 +1543,23 @@ button:focus-visible {
   .theory-index a > span:not([aria-hidden]) { grid-column: 1; }
   .theory-index a > span[aria-hidden] { grid-column: 2; grid-row: 1; }
 }
+
+
+/* Study contributions stay above their figures; collaboration choices expand on demand. */
+.paper-contribution { color: $site-ink; font-size: 0.93rem; line-height: 1.65; margin: 0 0 1.2rem; }
+.portfolio-context { border-top: 1px solid $site-rule; font-size: 0.9rem; padding-top: 1.3rem; }
+.collaboration-menu { margin: 1.4rem 0 2rem; }
+.collaboration-menu details { border-bottom: 1px solid $site-rule; }
+.collaboration-menu details:first-child { border-top: 3px solid $site-red; }
+.collaboration-menu summary { color: $site-ink; cursor: pointer; font-family: $header-font-family; font-size: 1.15rem; line-height: 1.4; padding: 0.85rem 0.25rem; }
+.collaboration-menu summary:hover, .collaboration-menu summary:focus-visible { color: #a83b31; }
+.collaboration-menu__body { padding: 0 0.25rem 1.2rem; }
+.collaboration-menu dl { margin: 0 0 0.8rem; }
+.collaboration-menu dl > div { display: grid; gap: 0.4rem 1rem; grid-template-columns: 5rem minmax(0, 1fr); margin-bottom: 0.7rem; }
+.collaboration-menu dt { color: $site-teal; font-size: 0.8rem; font-weight: 700; }
+.collaboration-menu dd { font-size: 0.86rem; line-height: 1.6; margin: 0; }
+.collaboration-menu__body > a { font-size: 0.8rem; font-weight: 700; }
+.earlier-recognition summary { cursor: pointer; font-weight: 700; margin: 1rem 0; }
+@media (max-width: 480px) {
+  .collaboration-menu dl > div { grid-template-columns: 1fr; }
+}

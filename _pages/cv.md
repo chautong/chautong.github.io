@@ -1,4 +1,5 @@
 ---
+last_modified_at: 2026-10-24
 layout: archive
 title: "CV"
 excerpt: "Academic appointments, publications, teaching, grants, and professional activities of Chau Tong at the University of Missouri."

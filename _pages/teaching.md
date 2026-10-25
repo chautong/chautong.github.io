@@ -1,4 +1,5 @@
 ---
+last_modified_at: 2026-10-24
 title: "Teaching"
 excerpt: "Chau Tong’s teaching in strategic communication research, emerging technologies, natural language processing, and communication networks at Missouri."
 permalink: /teaching/
@@ -7,7 +8,7 @@ permalink: /teaching/
 
 <div class="page-kicker">01 / Teaching portfolio</div>
 
-<p class="teaching-lead">I teach students to investigate communication in rapidly changing technological environments. Across journalism and data science, my courses connect theory, research design, and computational methods while asking students to examine what evidence can—and cannot—establish.</p>
+<p class="teaching-lead">I teach students to investigate communication through theory, research design, and computational methods. Across journalism and data science, they learn to turn a substantive question into evidence and an argument they can defend.</p>
 
 <p class="teaching-lead">My courses serve students with different disciplinary backgrounds and levels of technical preparation. I use scaffolded projects, applied exercises, coding labs, case discussions, and peer feedback to help students move from concepts to defensible research decisions. Whether students are designing a survey, analyzing language or networks, or evaluating a generative AI system, I want them to develop the judgment to use emerging methods responsibly and explain their limitations clearly.</p>
 
@@ -47,7 +48,7 @@ permalink: /teaching/
 
 <section class="principle">
   <h3>From concepts to evidence</h3>
-  <p>Students should understand the relationship among a theoretical concept, its operationalization, the data used to represent it, and the claim produced by an analysis. I ask students to explain methodological choices and limitations rather than treating a technically successful output as sufficient evidence.</p>
+  <p>Students should understand the relationship among a theoretical concept, its operationalization, the data used to represent it, and the claim produced by an analysis. Students explain how their methodological choices support the interpretation of their results.</p>
 </section>
 
 <section class="principle">
@@ -57,7 +58,7 @@ permalink: /teaching/
 
 <section class="principle">
   <h3>Responsible engagement with AI</h3>
-  <p>Students need both practical fluency with generative AI and the ability to recognize when its use weakens independent reasoning or evidentiary quality. My courses combine guided experimentation, disclosure and reflection, evaluation of model outputs, and selected assignments completed without generative AI. The goal is informed judgment rather than uncritical adoption or blanket rejection.</p>
+  <p>Students learn to use generative AI deliberately and evaluate the resulting work. My courses combine guided experimentation, disclosure and reflection, evaluation of model outputs, and selected assignments completed without AI assistance. These activities build practical fluency and judgment about when AI helps with a task.</p>
 </section>
 
 ## Teaching design in practice

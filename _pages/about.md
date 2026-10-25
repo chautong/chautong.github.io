@@ -1,4 +1,5 @@
 ---
+last_modified_at: 2026-10-24
 permalink: /
 title: "Chau Tong"
 excerpt: "Computational communication research on information access, credibility, and inequality in health and politics."
@@ -20,24 +21,14 @@ redirect_from:
 
 <p class="positioning-statement">I study how search, social platforms, and generative AI shape the information people find and the claims they trust. At Missouri, I lead the Computational Communication Technology Lab, where we examine information access, credibility, and inequality in health and politics.</p>
 
+<section class="brief-bio" markdown="1">
+I am an assistant professor of Strategic Communication, jointly appointed in the [Missouri School of Journalism](https://journalism.missouri.edu/people/chau-tong/) and the [Institute for Data Science & Informatics](https://muidsi.missouri.edu/person/chau-tong/). Originally from Hanoi, I earned my M.A. at Ewha Womans University and my Ph.D. at the University of Wisconsin–Madison, advised by Hernando Rojas. At Cornell, my postdoctoral mentors were Jeff Niederdeppe and Drew Margolin.
+</section>
+
 <nav class="page-actions lead-actions" aria-label="Explore my work">
   <a href="/research/">Explore my research <span aria-hidden="true">→</span></a>
   <a href="/lab/">Work with me <span aria-hidden="true">→</span></a>
 </nav>
-
-<section class="research-atlas" aria-labelledby="selected-work">
-  <div class="page-kicker">01 / Selected research</div>
-  <h2 id="selected-work">Making information visible</h2>
-  {% include research/retrieval-visual.html %}
-  <div class="atlas-summary">
-    <p>What researchers find depends on how they search. I developed a method combining word embeddings, recommendation networks, and human review to recover health content that clinical search terms miss, making the limits of a search strategy visible.</p>
-    <a class="text-link-arrow" href="/publications/#health-information-retrieval">Read the study <span aria-hidden="true">→</span></a>
-  </div>
-  <div class="contribution-pair">
-    <article><div class="module-kicker">Algorithmic gatekeeping</div><h3><a href="/publications/#political-search">The query matters.</a></h3><p>My Google audit separates query choices from variation associated with users’ political identities. Across three topics, query wording was the primary source of differences in results, changing how we interpret apparent search bias.</p><span class="study-source">Sole author · ACM WebSci · 2025</span></article>
-    <article class="contribution-pair__accent"><div class="module-kicker">Credibility and public discourse</div><h3><a href="/publications/#credibility">When “fake news” becomes an accusation</a></h3><p>I distinguish descriptions of false content from accusations against opponents. This work examines credibility labels as acts of political communication and connects them with political identity.</p><span class="study-source">First author · Mass Communication and Society · 2020</span></article>
-  </div>
-</section>
 
 <section class="current-agenda" aria-labelledby="current-focus">
   <div class="module-kicker">Current work</div>
@@ -45,6 +36,20 @@ redirect_from:
   <p>My group is auditing Google AI Overviews across languages and over time. We examine how answers and sources change, how health guidance communicates uncertainty, and what these answers offer people seeking help.</p>
   <a class="text-link-arrow" href="/research/#research-across-fields">Research program and collaborations <span aria-hidden="true">→</span></a>
 </section>
+
+<section class="research-atlas" aria-labelledby="selected-work">
+  <div class="page-kicker">01 / Selected research</div>
+  <h2 id="selected-work">Making information visible</h2>
+  <div class="atlas-summary">
+    <p>My retrieval method recovered health videos that clinical search terms missed. Combining word embeddings, recommendation networks, and human review helps researchers examine the language people use online.</p>
+    <a class="text-link-arrow" href="/publications/#health-information-retrieval">Read the study <span aria-hidden="true">→</span></a>
+  </div>
+  <div class="contribution-pair">
+    <article><div class="module-kicker">Algorithmic gatekeeping</div><h3><a href="/publications/#political-search">The query matters.</a></h3><p>Across three political topics, query wording was the primary source of differences in Google results. My audit separates query choices from variation associated with users’ political identities, changing how we interpret apparent search bias.</p><span class="study-source">Sole author · ACM WebSci · 2025</span></article>
+    <article class="contribution-pair__accent"><div class="module-kicker">Credibility and public discourse</div><h3><a href="/publications/#credibility">When “fake news” becomes an accusation</a></h3><p>Accusations of “fake news” against political opponents were associated with affective polarization. I distinguish these uses from descriptions of false content, examining credibility labels as acts of political communication.</p><span class="study-source">First author · Mass Communication and Society · 2020</span></article>
+  </div>
+</section>
+
 
 <section class="home-news" aria-labelledby="news-updates">
   <div class="page-kicker">02 / News &amp; updates</div>
@@ -57,14 +62,3 @@ redirect_from:
   </div>
   <a class="text-link-arrow" href="/news-talks/">All news and talks <span aria-hidden="true">→</span></a>
 </section>
-
-<section class="brief-bio" markdown="1">
-I am an assistant professor with a joint appointment in the [Missouri School of Journalism](https://journalism.missouri.edu/people/chau-tong/) and the [Institute for Data Science & Informatics](https://muidsi.missouri.edu/person/chau-tong/). Originally from Hanoi, Vietnam, I earned my M.A. at Ewha Womans University and my Ph.D. at the University of Wisconsin–Madison, followed by postdoctoral research at Cornell University.
-</section>
-
-<nav class="page-actions" aria-label="Profile links">
-  <a href="/cv/">CV</a>
-  <a href="https://scholar.google.com/citations?user=-oDmvvQAAAAJ&hl=en">Google Scholar</a>
-  <a href="https://orcid.org/0000-0002-6609-9889">ORCID</a>
-  <a href="mailto:ctong@missouri.edu">Email</a>
-</nav>
