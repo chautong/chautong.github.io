@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Publications"
+excerpt: "Selected studies and publications by Chau Tong on information access, credibility, health, politics, and computational communication."
 permalink: /publications/
 author_profile: true
 ---

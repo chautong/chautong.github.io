@@ -21,8 +21,8 @@ redirect_from:
 <p class="positioning-statement">I study how search, social platforms, and generative AI shape the information people find and the claims they trust. At Missouri, I lead the Computational Communication Technology Lab, where we examine information access, credibility, and inequality in health and politics.</p>
 
 <nav class="page-actions lead-actions" aria-label="Explore my work">
-  <a href="/research/">Explore my research <span aria-hidden="true">↗</span></a>
-  <a href="/lab/">Work with me <span aria-hidden="true">↗</span></a>
+  <a href="/research/">Explore my research <span aria-hidden="true">→</span></a>
+  <a href="/lab/">Work with me <span aria-hidden="true">→</span></a>
 </nav>
 
 <section class="research-atlas" aria-labelledby="selected-work">
@@ -43,7 +43,7 @@ redirect_from:
   <div class="module-kicker">Current work</div>
   <h2 id="current-focus">AI-mediated information</h2>
   <p>My group is auditing Google AI Overviews across languages and over time. We examine how answers and sources change, how health guidance communicates uncertainty, and what these answers offer people seeking help.</p>
-  <a class="text-link-arrow" href="/research/">Research program and collaborations <span aria-hidden="true">→</span></a>
+  <a class="text-link-arrow" href="/research/#research-across-fields">Research program and collaborations <span aria-hidden="true">→</span></a>
 </section>
 
 <section class="home-news" aria-labelledby="news-updates">

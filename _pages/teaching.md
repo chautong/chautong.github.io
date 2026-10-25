@@ -1,5 +1,6 @@
 ---
 title: "Teaching"
+excerpt: "Chau Tong’s teaching in strategic communication research, emerging technologies, natural-language processing, and communication networks at Missouri."
 permalink: /teaching/
 ---
 
@@ -37,7 +38,7 @@ permalink: /teaching/
   <section class="course-card">
     <h3>Communication Network Analytics</h3>
     <div class="course-meta">DATA_SCI 8220 · Institute for Data Science and Informatics · 2025–2026</div>
-    <p>This graduate course connects network theory to computational analysis of communication systems. Students construct and visualize networks, assess centrality and connectivity, compare network models, identify communities, examine link prediction and diffusion, and apply these techniques to digital-trace data. The course culminates in an independently designed network-analysis project in a reproducible computational environment.</p>
+    <p>This graduate course connects network theory to computational analysis of communication systems. Students construct and visualize networks, assess centrality and connectivity, compare network models, identify communities, examine link prediction and diffusion, and apply these techniques to digital-trace data. The course culminates in an independently designed network-analysis project.</p>
     <div class="course-tags">Network analysis · Communication systems · Python · Digital platforms</div>
   </section>
 </div>

@@ -16,7 +16,7 @@ Publications, research coverage, talks, and group news.
 <div class="news-stream">
 {% assign recent_news = site.data.news | sort: 'date' | reverse %}
 {% for item in recent_news %}
-  <article class="news-card"><time datetime="{{ item.date | date: '%Y-%m-%d' }}">{{ item.display_date }}</time><div class="module-kicker">{{ item.type }}</div><h3>{{ item.title }}</h3><p>{{ item.summary }}</p>{% if item.url %}<a href="{{ item.url }}">{{ item.link_label }} <span aria-hidden="true">↗</span></a>{% endif %}</article>
+  <article class="news-card"><time datetime="{{ item.date | date: '%Y-%m-%d' }}">{{ item.display_date }}</time><div class="module-kicker">{{ item.type }}</div><h3>{{ item.title }}</h3><p>{{ item.summary }}</p>{% if item.url %}<a href="{{ item.url }}">{{ item.link_label }} <span aria-hidden="true">{% if item.url contains site.url %}→{% elsif item.url contains "://" %}↗{% else %}→{% endif %}</span></a>{% endif %}</article>
 {% endfor %}
 </div>
 

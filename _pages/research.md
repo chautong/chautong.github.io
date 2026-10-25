@@ -91,5 +91,5 @@ My 2020 “fake news” study also connects credibility judgments with affective
     <div><dt>IDSI &amp; Computer Science</dt><dd>Temitope Eyinla and Krishna Karra contribute to our longitudinal audit of Google AI Overviews. The work brings health informatics and computing into communication research, from study design to data collection and validation.</dd></div>
     <div><dt>Journalism, RJI &amp; Statistics</dt><dd>Research with Joy Jenkins, Damon Kiesow, and Michael Hatley examines networks of sites presented as local news. This <a href="https://journalism.missouri.edu/2025/04/the-surprising-truth-about-pink-slime-journalism/">collaboration on pink-slime journalism</a> connects questions about political visibility with large-scale content analysis.</dd></div>
   </dl>
-  <a class="text-link-arrow" href="mailto:ctong@missouri.edu?subject=Research%20collaboration">Discuss a collaboration <span aria-hidden="true">↗</span></a>
+  <a class="text-link-arrow" href="mailto:ctong@missouri.edu?subject=Research%20collaboration">Discuss a collaboration <span aria-hidden="true">→</span></a>
 </section>

@@ -61,7 +61,8 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : "social/chau-tong-research-preview.png"
+og_image_alt             : "Chau Tong — Computational communication. What becomes visible? University of Missouri and CCT Lab."
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:

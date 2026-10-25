@@ -39,7 +39,7 @@ author_profile: true
 
 <div class="work-path">
   <div><span>Frame</span><p>Develop a consequential question and connect it to communication theory.</p></div>
-  <div><span>Build</span><p>Collect, document, and structure data through reproducible workflows.</p></div>
+  <div><span>Build</span><p>Collect and organize the data needed to answer the research question.</p></div>
   <div><span>Test</span><p>Choose methods deliberately, validate outputs, and examine alternative explanations.</p></div>
   <div><span>Communicate</span><p>Write for publication, present the work, and explain its limits as clearly as its contribution.</p></div>
 </div>
@@ -51,14 +51,14 @@ Typical contributions include literature synthesis, web and API data collection,
 <div class="expectation-grid">
   <section class="expectation-card"><h3>Independent thinking</h3><p>I provide structure, feedback, and methodological guidance. Students take increasing ownership of their questions, decisions, deadlines, and scholarly arguments.</p></section>
   <section class="expectation-card"><h3>Publishable research</h3><p>Students learn the full research process and work toward conference presentations, manuscripts, and proposals. We discuss roles and authorship early, then revisit them when contributions change.</p></section>
-  <section class="expectation-card"><h3>Reproducible practice</h3><p>Research decisions, code, transformations, validation, and substantive AI use should be documented. Claims must remain traceable to evidence, and confidential material stays in approved systems.</p></section>
+  <section class="expectation-card"><h3>Careful analysis</h3><p>Students check data quality, evaluate their methods, and support interpretations with evidence. Conclusions should reflect what the study can establish.</p></section>
   <section class="expectation-card"><h3>Career development</h3><p>Training is shaped around the student’s goals. I support academic and nonacademic paths and encourage experience in research, teaching, grant writing, professional meetings, and collaboration beyond this group.</p></section>
 </div>
 
 <section class="ai-principle">
   <div class="module-kicker">AI in research and training</div>
   <h2>AI can accelerate work you intellectually own. It cannot become the researcher.</h2>
-  <p>Students may use AI to learn, debug, expand a search, implement understood procedures, or critique work they have already developed. They remain responsible for the research question, design, code, evidence, interpretation, and argument. Research-critical AI use must be transparent, verified, and reproducible.</p>
+  <p>Students may use AI to learn, debug, expand a search, implement understood procedures, or critique work they have already developed. They remain responsible for the research question, design, code, evidence, interpretation, and argument. Students must check AI-assisted work and be able to explain the decisions it informs.</p>
 </section>
 
 ## Pathways at Missouri
