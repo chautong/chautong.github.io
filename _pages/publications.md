@@ -13,29 +13,29 @@ My research examines how people and platforms shape access to information, credi
 <article class="paper-feature" id="health-information-retrieval">
   <div class="paper-feature__heading"><div class="module-kicker">Computational health communication</div><h2>What does a clinical search term miss?</h2></div>
   {% include research/retrieval-visual.html %}
-  <div class="paper-feature__body"><p>I developed a retrieval method combining word embeddings, recommendation networks, and human review. It finds relevant health content expressed in colloquial language and gives researchers a way to assess the tradeoff between finding more content and retaining relevance.</p>
+  <div class="paper-feature__body"><p>The terms researchers choose can shape the information environment they observe. I led the design and developed a retrieval method that combines word embeddings, recommendation networks, and human review to recover health content expressed in colloquial language. It makes the tradeoff between coverage and relevance explicit.</p>
   <div class="paper-meta"><span>First &amp; corresponding author</span><span>JMIR Medical Informatics · 2022</span><a href="https://doi.org/10.2196/37862">Read article <span aria-hidden="true">↗</span></a></div></div>
 </article>
 
 <div class="contribution-pair publication-pair">
-  <article id="political-search"><div class="module-kicker">Algorithmic gatekeeping</div><h2>The query matters.</h2><p>Across three political topics, query wording was the primary source of differences in Google results, while authoritative sources appeared across searches. This sole-authored audit distinguishes the role of user input from algorithmic selection.</p><div class="paper-meta"><span>Sole author · ACM WebSci · 2025</span><a href="https://doi.org/10.1145/3717867.3717888">Read article <span aria-hidden="true">↗</span></a></div></article>
-  <article class="contribution-pair__accent" id="credibility"><div class="module-kicker">Credibility and political identity</div><h2>“Fake news” as an accusation</h2><p>I developed and led a survey-based study distinguishing descriptions of false content from accusations against political and media opponents. Politicized definitions were associated with affective polarization, showing why credibility labels deserve study as acts of political communication.</p><div class="paper-meta"><span>First author · Mass Communication and Society · 2020</span><a href="https://doi.org/10.1080/15205436.2020.1789661">Read article <span aria-hidden="true">↗</span></a></div></article>
+  <article id="political-search"><div class="module-kicker">Algorithmic gatekeeping</div><h2>The query matters.</h2><p>Differences in search results need to be explained before they are called personalization. My audit separated query choices from variation associated with users’ political identities. Across three topics, query slant was the primary source of differences, while authoritative sources appeared across searches.</p><div class="paper-meta"><span>Sole author · ACM WebSci · 2025</span><a href="https://doi.org/10.1145/3717867.3717888">Read article <span aria-hidden="true">↗</span></a></div></article>
+  <article class="contribution-pair__accent" id="credibility"><div class="module-kicker">Credibility and political identity</div><h2>“Fake news” as an accusation</h2><p>Calling something “fake news” can challenge an opponent’s legitimacy as well as describe false content. I led the conceptual framing and survey design that separated these uses. Politicized uses were associated with affective polarization, connecting credibility judgments with political identity.</p><div class="paper-meta"><span>First author · Mass Communication and Society · 2020</span><a href="https://doi.org/10.1080/15205436.2020.1789661">Read article <span aria-hidden="true">↗</span></a></div></article>
 </div>
 
 <article class="paper-feature" id="health-information-equity">
   <div class="paper-feature__heading"><div class="module-kicker">Health information and inequality</div><h2>What information is available to circulate?</h2></div>
   {% include research/content-atlas.html %}
-  <div class="paper-feature__body"><p>I led the study’s conceptual framing, design, and analyses. By examining post content alongside broker accounts and follower networks, the study connects the supply of colorectal-cancer equity information with opportunities for exposure.</p>
+  <div class="paper-feature__body"><p>Information equity depends on both the content available and the social connections through which it could reach people. I led the framing, design, and definitions of disseminator and broker accounts, connecting the supply of colorectal cancer racial equity information with opportunities for exposure. Follower ties indicate potential access, not confirmed viewing.</p>
   <div class="paper-meta"><span>First &amp; corresponding author</span><span>Journal of Medical Internet Research · 2025</span><a href="https://doi.org/10.2196/63864">Read article <span aria-hidden="true">↗</span></a></div></div>
 </article>
 
-<article class="method-feature" id="computational-validation"><div class="module-kicker">Computational measurement · 2026</div><h2>Evaluating machine-generated topics</h2><p>Our AURA workflow asks whether machine-generated topics correspond with human-coded themes and whether domain experts find them useful. The two checks help researchers interpret what a topic model contributes to a qualitative analysis.</p><div class="paper-meta"><span>First author · International Journal of Qualitative Methods</span><a href="https://doi.org/10.1177/16094069261486252">Read article <span aria-hidden="true">↗</span></a></div></article>
+<article class="method-feature" id="computational-validation"><div class="module-kicker">Computational measurement · 2026</div><h2>What does a topic model contribute?</h2><p>AURA separates correspondence with human coding, usefulness to domain experts, and additional thematic discovery. Our demonstration found broad correspondence but limited additional discovery, clarifying what the method contributes to qualitative analysis.</p><div class="paper-meta"><span>First author · International Journal of Qualitative Methods</span><a href="https://doi.org/10.1177/16094069261486252">Read article <span aria-hidden="true">↗</span></a></div></article>
 
 <div class="page-kicker publication-ledger-label">02 / Full publication list</div>
 
 <section class="publication-group" markdown="1">
 
-## Peer-reviewed journal articles
+## Journal articles · Peer reviewed
 
 1. **Tong, C.**, Eyinla, T., & Bautista, J. R. (2026). Comparing BERTopic outputs with human-coded themes: The Alignment and Usefulness Rating Audit (AURA) workflow for qualitative analysis. *International Journal of Qualitative Methods*. [https://doi.org/10.1177/16094069261486252](https://doi.org/10.1177/16094069261486252)
 2. Shea, A., Omapang, A., Cho, J. Y., Ginsparg, M., Bazarova, N., Winice, H., Kizilcec, R., **Tong, C.**, & Margolin, D. (2025). Beyond ad hominem attacks: A typology of the discursive tactics used when objecting to news commentary on social media. *PLOS ONE*. [https://doi.org/10.1371/journal.pone.0328550](https://doi.org/10.1371/journal.pone.0328550)
@@ -55,7 +55,7 @@ My research examines how people and platforms shape access to information, credi
 
 <section class="publication-group" markdown="1">
 
-## Peer-reviewed conference proceedings
+## Conference proceedings · Peer reviewed
 
 1. **Tong, C.** (2025). Searching for BLM: Google search results during the 2020 Black Lives Matter protests. In *Adjunct Proceedings of the 33rd ACM Conference on User Modeling, Adaptation and Personalization (UMAP Adjunct ’25)*. ACM. [https://doi.org/10.1145/3708319.3733704](https://doi.org/10.1145/3708319.3733704)
 2. **Tong, C.** (2025). Unite or divide? Biased search queries and Google Search results in polarized politics. In *Proceedings of the 17th ACM Web Science Conference 2025 (WebSci ’25)*, 158–168. ACM. [https://doi.org/10.1145/3717867.3717888](https://doi.org/10.1145/3717867.3717888)

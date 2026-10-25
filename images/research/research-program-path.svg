@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 640" role="img" aria-labelledby="title desc">
   <title id="title">Four questions in Chau Tong's research program</title>
-  <desc id="desc">A four-stage pathway. People: who produces and shares information? Platform and social curation: what becomes visible, amplified, or hidden? Information: what do people encounter and how can it be measured? Impact: how does information relate to understanding and action?</desc>
+  <desc id="desc">A four stage pathway. People: who produces and shares information? Platform and social curation: what becomes visible, amplified, or hidden? Information: what do people encounter and how can it be measured? Impact: how does information relate to understanding and action?</desc>
   <style>
     .number { fill: #c94a3d; font: 700 22px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; letter-spacing: 2px; }
     .head { fill: #18364a; font: 700 42px Georgia, 'Times New Roman', serif; }

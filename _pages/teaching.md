@@ -1,6 +1,6 @@
 ---
 title: "Teaching"
-excerpt: "Chau Tong’s teaching in strategic communication research, emerging technologies, natural-language processing, and communication networks at Missouri."
+excerpt: "Chau Tong’s teaching in strategic communication research, emerging technologies, natural language processing, and communication networks at Missouri."
 permalink: /teaching/
 ---
 
@@ -9,7 +9,7 @@ permalink: /teaching/
 
 <p class="teaching-lead">I teach students to investigate communication in rapidly changing technological environments. Across journalism and data science, my courses connect theory, research design, and computational methods while asking students to examine what evidence can—and cannot—establish.</p>
 
-<p class="teaching-lead">My courses serve students with different disciplinary backgrounds and levels of technical preparation. I use scaffolded projects, applied exercises, coding labs, case discussions, and peer feedback to help students move from concepts to defensible research decisions. Whether students are designing a survey, analyzing language or networks, or evaluating a generative-AI system, I want them to develop the judgment to use emerging methods responsibly and explain their limitations clearly.</p>
+<p class="teaching-lead">My courses serve students with different disciplinary backgrounds and levels of technical preparation. I use scaffolded projects, applied exercises, coding labs, case discussions, and peer feedback to help students move from concepts to defensible research decisions. Whether students are designing a survey, analyzing language or networks, or evaluating a generative AI system, I want them to develop the judgment to use emerging methods responsibly and explain their limitations clearly.</p>
 
 ## Courses at Missouri
 
@@ -17,28 +17,28 @@ permalink: /teaching/
   <section class="course-card">
     <h3>Emerging Technologies</h3>
     <div class="course-meta">JOURN 7462 · Missouri School of Journalism · 2023–2026</div>
-    <p>I rebuilt this eight-week course around generative-AI literacy and the changing role of technological systems in journalism. Students examine AI and machine learning in relation to credibility, ethics, professional responsibility, platform governance, and media organizations. The course combines critical reading with documented experimentation: students maintain a weekly AI prompt-and-outcome log while developing an independent, publication-oriented research proposal.</p>
+    <p>I rebuilt this course around generative AI literacy and the changing role of technological systems in journalism. Students examine AI and machine learning in relation to credibility, ethics, professional responsibility, platform governance, and media organizations. The course combines critical reading with documented experimentation: students maintain a weekly log of AI prompts and outcomes while developing an independent research proposal intended for publication.</p>
     <div class="course-tags">Generative AI · Journalism · Technology ethics · Online learning</div>
   </section>
 
   <section class="course-card">
     <h3>Strategic Communication Research Methods</h3>
     <div class="course-meta">JOURN 4952 · Missouri School of Journalism · 2025–2026</div>
-    <p>Students learn to use research to make defensible strategic-communication decisions. Working in teams, they progress from secondary research to survey design, in-depth interviews, data interpretation, and an evidence-based client report. Individual artifacts and peer accountability preserve each student's responsibility within the collaborative process.</p>
-    <div class="course-tags">Research design · Surveys · Interviews · Evidence-based decisions</div>
+    <p>Students learn to use research to make defensible strategic communication decisions. Working in teams, they progress from secondary research to survey design, detailed interviews, data interpretation, and a client report grounded in evidence. Individual artifacts and peer accountability preserve each student's responsibility within the collaborative process.</p>
+    <div class="course-tags">Research design · Surveys · Interviews · Decisions grounded in evidence</div>
   </section>
 
   <section class="course-card">
     <h3>Introduction to Natural Language Processing with Generative AI</h3>
     <div class="course-meta">DATA_SCI 8001 · Institute for Data Science and Informatics · 2024</div>
-    <p>This graduate course introduces natural language processing for computational social science. Students work with social-media, political, and news texts; learn preprocessing, dictionary methods, embeddings, machine learning, information extraction, and large language models; and examine the epistemic, legal, and ethical questions these methods raise. A scaffolded research project moves from a 300-word idea pitch to a proposal draft and a completed paper or study proposal.</p>
+    <p>This graduate course introduces natural language processing for computational social science. Students work with texts from social media, politics, and news; learn preprocessing, dictionary methods, embeddings, machine learning, information extraction, and large language models; and examine the epistemic, legal, and ethical questions these methods raise. A scaffolded research project moves from an idea pitch of 300 words to a proposal draft and a completed paper or study proposal.</p>
     <div class="course-tags">NLP · Text analysis · Machine learning · LLMs</div>
   </section>
 
   <section class="course-card">
     <h3>Communication Network Analytics</h3>
     <div class="course-meta">DATA_SCI 8220 · Institute for Data Science and Informatics · 2025–2026</div>
-    <p>This graduate course connects network theory to computational analysis of communication systems. Students construct and visualize networks, assess centrality and connectivity, compare network models, identify communities, examine link prediction and diffusion, and apply these techniques to digital-trace data. The course culminates in an independently designed network-analysis project.</p>
+    <p>This graduate course connects network theory to computational analysis of communication systems. Students construct and visualize networks, assess centrality and connectivity, compare network models, identify communities, examine link prediction and diffusion, and apply these techniques to digital trace data. The course culminates in an independently designed network analysis project.</p>
     <div class="course-tags">Network analysis · Communication systems · Python · Digital platforms</div>
   </section>
 </div>
@@ -52,34 +52,34 @@ permalink: /teaching/
 
 <section class="principle">
   <h3>Learning through structured practice</h3>
-  <p>I sequence lower-stakes exercises into larger research tasks: question development, method selection, data collection, analysis, validation, interpretation, and communication. Coding labs, survey exercises, case analysis, structured peer feedback, and project checkpoints give students repeated opportunities to apply ideas and receive guidance.</p>
+  <p>I sequence short practice exercises into larger research tasks: question development, method selection, data collection, analysis, validation, interpretation, and communication. Coding labs, survey exercises, case analysis, structured peer feedback, and project checkpoints give students repeated opportunities to apply ideas and receive guidance.</p>
 </section>
 
 <section class="principle">
   <h3>Responsible engagement with AI</h3>
-  <p>Students need both practical fluency with generative AI and the ability to recognize when its use weakens independent reasoning or evidentiary quality. My courses combine guided experimentation, disclosure and reflection, model-output evaluation, and selected assignments completed without generative AI. The goal is informed judgment rather than uncritical adoption or blanket rejection.</p>
+  <p>Students need both practical fluency with generative AI and the ability to recognize when its use weakens independent reasoning or evidentiary quality. My courses combine guided experimentation, disclosure and reflection, evaluation of model outputs, and selected assignments completed without generative AI. The goal is informed judgment rather than uncritical adoption or blanket rejection.</p>
 </section>
 
 ## Teaching design in practice
 
 <section class="teaching-exhibit">
-  <h3>1. From a communication problem to an evidence-based recommendation</h3>
-  <p>In Strategic Communication Research Methods, student teams move through a complete applied-research cycle.</p>
-  <div class="process" role="img" aria-label="A four-stage process: understand the problem, identify evidence gaps, generate primary evidence, and translate evidence into decisions.">
+  <h3>1. From a communication problem to a recommendation grounded in evidence</h3>
+  <p>In Strategic Communication Research Methods, student teams move through a complete applied research cycle.</p>
+  <div class="process" role="img" aria-label="A process with four stages: understand the problem, identify evidence gaps, generate primary evidence, and translate evidence into decisions.">
     <div class="process-step"><strong>Understand the problem</strong>Research the client, audience, market, competition, and existing evidence.</div>
     <div class="process-arrow" aria-hidden="true">→</div>
     <div class="process-step"><strong>Identify evidence gaps</strong>Turn what remains unknown into focused research questions.</div>
     <div class="process-arrow" aria-hidden="true">→</div>
-    <div class="process-step"><strong>Generate primary evidence</strong>Design and conduct surveys and in-depth interviews.</div>
+    <div class="process-step"><strong>Generate primary evidence</strong>Design and conduct surveys and detailed interviews.</div>
     <div class="process-arrow" aria-hidden="true">→</div>
-    <div class="process-step"><strong>Translate evidence into decisions</strong>Integrate findings into an evidence-based client report.</div>
+    <div class="process-step"><strong>Translate evidence into decisions</strong>Integrate findings into a client report grounded in evidence.</div>
   </div>
 </section>
 
 <section class="teaching-exhibit">
   <h3>2. Responsible AI learning cycle</h3>
   <p>In authorized Emerging Technologies activities, students document how they use an AI system and evaluate the resulting output before deciding whether it is usable.</p>
-  <div class="process" role="img" aria-label="A five-stage process: choose a task, document the source and prompt, evaluate output, identify limitations and risks, and decide whether and how the output can be used.">
+  <div class="process" role="img" aria-label="A process with five stages: choose a task, document the source and prompt, evaluate output, identify limitations and risks, and decide whether and how the output can be used.">
     <div class="process-step"><strong>Choose a real task</strong>Work from an authentic information need and, when required, a public source.</div>
     <div class="process-arrow" aria-hidden="true">→</div>
     <div class="process-step"><strong>Document the interaction</strong>Record the source, model, prompt, timing, and retained output.</div>
@@ -93,10 +93,10 @@ permalink: /teaching/
 </section>
 
 <section class="teaching-exhibit">
-  <h3>3. Two pathways from data to social-scientific evidence</h3>
+  <h3>3. Two pathways from data to evidence for social science</h3>
   <div class="split-paths">
     <div class="path">
-      <h4>Natural-language processing</h4>
+      <h4>Natural language processing</h4>
       <ol>
         <li>Frame a communication question</li>
         <li>Select and prepare text data</li>
@@ -106,7 +106,7 @@ permalink: /teaching/
       </ol>
     </div>
     <div class="path">
-      <h4>Communication-network analysis</h4>
+      <h4>Communication network analysis</h4>
       <ol>
         <li>Frame a relational question</li>
         <li>Construct and describe a network</li>
@@ -126,9 +126,9 @@ permalink: /teaching/
         <tr><th>Course</th><th>Intellectual contribution</th><th>Methods and practices</th><th>Culminating work</th></tr>
       </thead>
       <tbody>
-        <tr><td><strong>Emerging Technologies</strong></td><td>Critical evaluation of AI and technological change</td><td>AI-output documentation, ethical analysis, research design</td><td>Publication-oriented proposal</td></tr>
-        <tr><td><strong>Strategic Communication Research Methods</strong></td><td>Evidence-based communication decisions</td><td>Secondary research, surveys, interviews, mixed evidence</td><td>Client research report</td></tr>
-        <tr><td><strong>Introduction to NLP</strong></td><td>Text as social-scientific evidence</td><td>Preprocessing, embeddings, machine learning, LLMs</td><td>Research paper or proposal</td></tr>
+        <tr><td><strong>Emerging Technologies</strong></td><td>Critical evaluation of AI and technological change</td><td>Documentation of AI outputs, ethical analysis, research design</td><td>Proposal intended for publication</td></tr>
+        <tr><td><strong>Strategic Communication Research Methods</strong></td><td>Communication decisions grounded in evidence</td><td>Secondary research, surveys, interviews, mixed evidence</td><td>Client research report</td></tr>
+        <tr><td><strong>Introduction to NLP</strong></td><td>Text as evidence for social science</td><td>Preprocessing, embeddings, machine learning, LLMs</td><td>Research paper or proposal</td></tr>
         <tr><td><strong>Communication Network Analytics</strong></td><td>Relational structure and information flow</td><td>Network construction, centrality, communities, dynamics</td><td>Independent network analysis</td></tr>
       </tbody>
     </table>
@@ -138,7 +138,7 @@ permalink: /teaching/
 ## Earlier teaching and invited instruction
 
 <div class="earlier-teaching">
-  <p>Before joining Missouri, I taught discussion sections in Introduction to Mass Communication and Mass Media in Multicultural America at the University of Wisconsin–Madison. I have also delivered invited methods instruction on social-media data collection, computational text analysis, topic modeling, and word embeddings at Cornell University and the University of Missouri.</p>
+  <p>Before joining Missouri, I taught discussion sections in Introduction to Mass Communication and Mass Media in Multicultural America at the University of Wisconsin–Madison. I have also delivered invited methods instruction on data collection from social media, computational text analysis, topic modeling, and word embeddings at Cornell University and the University of Missouri.</p>
 </div>
 
 [Lab](/lab/)

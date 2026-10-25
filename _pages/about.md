@@ -30,18 +30,18 @@ redirect_from:
   <h2 id="selected-work">Making information visible</h2>
   {% include research/retrieval-visual.html %}
   <div class="atlas-summary">
-    <p>I developed a method that combines word embeddings, recommendation networks, and human review to find health content that clinical search terms miss. The retrieval method helps researchers examine the language people actually use online.</p>
+    <p>What researchers find depends on how they search. I developed a method combining word embeddings, recommendation networks, and human review to recover health content that clinical search terms miss, making the limits of a search strategy visible.</p>
     <a class="text-link-arrow" href="/publications/#health-information-retrieval">Read the study <span aria-hidden="true">→</span></a>
   </div>
   <div class="contribution-pair">
-    <article><div class="module-kicker">Algorithmic gatekeeping</div><h3><a href="/publications/#political-search">The query matters.</a></h3><p>Across three political topics, my Google audit found that query wording was the primary source of differences in results. The study separates users’ questions from the platform’s selection of sources.</p><span class="study-source">Sole author · ACM WebSci · 2025</span></article>
-    <article class="contribution-pair__accent"><div class="module-kicker">Credibility and public discourse</div><h3><a href="/publications/#credibility">When “fake news” becomes an accusation</a></h3><p>My survey-based study distinguished definitions of false content from accusations against political and media opponents, connecting credibility judgments with political identity.</p><span class="study-source">First author · Mass Communication and Society · 2020</span></article>
+    <article><div class="module-kicker">Algorithmic gatekeeping</div><h3><a href="/publications/#political-search">The query matters.</a></h3><p>My Google audit separates query choices from variation associated with users’ political identities. Across three topics, query wording was the primary source of differences in results, changing how we interpret apparent search bias.</p><span class="study-source">Sole author · ACM WebSci · 2025</span></article>
+    <article class="contribution-pair__accent"><div class="module-kicker">Credibility and public discourse</div><h3><a href="/publications/#credibility">When “fake news” becomes an accusation</a></h3><p>I distinguish descriptions of false content from accusations against opponents. This work examines credibility labels as acts of political communication and connects them with political identity.</p><span class="study-source">First author · Mass Communication and Society · 2020</span></article>
   </div>
 </section>
 
 <section class="current-agenda" aria-labelledby="current-focus">
   <div class="module-kicker">Current work</div>
-  <h2 id="current-focus">AI-mediated information</h2>
+  <h2 id="current-focus">AI and public information</h2>
   <p>My group is auditing Google AI Overviews across languages and over time. We examine how answers and sources change, how health guidance communicates uncertainty, and what these answers offer people seeking help.</p>
   <a class="text-link-arrow" href="/research/#research-across-fields">Research program and collaborations <span aria-hidden="true">→</span></a>
 </section>

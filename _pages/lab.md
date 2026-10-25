@@ -29,7 +29,7 @@ author_profile: true
 <p class="lab-section-lead">The group works across four connected areas. Students may begin with one of these areas, but doctoral students are expected to develop questions and a program of research they can lead.</p>
 
 <div class="opportunity-grid">
-  <article class="opportunity-card"><div class="opportunity-card__number">01</div><h3>AI and algorithmic information systems</h3><p>Audit how search engines and generative-AI systems select, synthesize, cite, and communicate public information across topics, languages, and time.</p></article>
+  <article class="opportunity-card"><div class="opportunity-card__number">01</div><h3>AI and algorithmic information systems</h3><p>Audit how search engines and generative AI systems select, synthesize, cite, and communicate public information across topics, languages, and time.</p></article>
   <article class="opportunity-card"><div class="opportunity-card__number">02</div><h3>Health communication and information equity</h3><p>Study which health information is available, how it circulates, what remains difficult to find, and how uncertainty and guidance are communicated.</p></article>
   <article class="opportunity-card"><div class="opportunity-card__number">03</div><h3>Political communication and journalism</h3><p>Examine credibility, political search, misinformation, emerging forms of local news, and the ways platforms and AI alter public communication.</p></article>
   <article class="opportunity-card"><div class="opportunity-card__number">04</div><h3>Computational measurement</h3><p>Develop and validate research workflows using text, networks, digital traces, surveys, experiments, and systematic human judgment.</p></article>
@@ -44,7 +44,7 @@ author_profile: true
   <div><span>Communicate</span><p>Write for publication, present the work, and explain its limits as clearly as its contribution.</p></div>
 </div>
 
-Typical contributions include literature synthesis, web and API data collection, data labeling, computational pipeline development, qualitative and quantitative analysis, visualization, and manuscript preparation. Depending on the question, projects may use Python or R, natural-language processing, network analysis, content analysis, surveys, experiments, interviews, or mixed methods. Coding experience is useful, but intellectual fit and a serious commitment to learning matter more than arriving with every technique already mastered.
+Typical contributions include literature synthesis, web and API data collection, data labeling, computational pipeline development, qualitative and quantitative analysis, visualization, and manuscript preparation. Depending on the question, projects may use Python or R, natural language processing, network analysis, content analysis, surveys, experiments, interviews, or mixed methods. Coding experience is useful, but intellectual fit and a serious commitment to learning matter more than arriving with every technique already mastered.
 
 ## Mentoring and expectations
 
@@ -58,12 +58,12 @@ Typical contributions include literature synthesis, web and API data collection,
 <section class="ai-principle">
   <div class="module-kicker">AI in research and training</div>
   <h2>AI can accelerate work you intellectually own. It cannot become the researcher.</h2>
-  <p>Students may use AI to learn, debug, expand a search, implement understood procedures, or critique work they have already developed. They remain responsible for the research question, design, code, evidence, interpretation, and argument. Students must check AI-assisted work and be able to explain the decisions it informs.</p>
+  <p>Students may use AI to learn, debug, expand a search, implement understood procedures, or critique work they have already developed. They remain responsible for the research question, design, code, evidence, interpretation, and argument. Students must check work assisted by AI and be able to explain the decisions it informs.</p>
 </section>
 
 ## Pathways at Missouri
 
-<p>I can advise doctoral students in both the Missouri School of Journalism Ph.D. program and the Institute for Data Science &amp; Informatics Ph.D. program. Journalism students can build a computational emphasis through their methods choices and an approved supporting field, drawing on courses and collaborators in IDSI, Communication, Political Science, Information Science, Statistics, Computer Science, and related programs. I teach graduate courses in natural-language processing and communication-network analysis through IDSI.</p>
+<p>I can advise doctoral students in both the Missouri School of Journalism Ph.D. program and the Institute for Data Science &amp; Informatics Ph.D. program. Journalism students can build a computational emphasis through their methods choices and an approved supporting field, drawing on courses and collaborators in IDSI, Communication, Political Science, Information Science, Statistics, Computer Science, and related programs. I teach graduate courses in natural language processing and communication network analysis through IDSI.</p>
 
 <nav class="page-actions" aria-label="Graduate program links">
   <a href="https://journalism.missouri.edu/degrees-programs/graduate-degrees/ph-d/">Journalism Ph.D.</a>
@@ -90,7 +90,7 @@ Typical contributions include literature synthesis, web and API data collection,
     <div class="lab-card__number" aria-hidden="true">01</div>
     <h3><a href="https://muidsi.missouri.edu/person/temitope-eyinla/">Temitope Eyinla</a></h3>
     <div class="lab-role">Doctoral advisee · Institute for Data Science &amp; Informatics</div>
-    <p>Temitope studies health informatics, causal inference, and computational methods for examining health information. Our collaborations include a framework for auditing machine-generated topics and a longitudinal audit of Google AI Overviews.</p>
+    <p>Temitope studies health informatics, causal inference, and computational methods for examining health information. Our collaborations include a framework for auditing topics generated by models and a longitudinal audit of Google AI Overviews.</p>
     <a class="lab-profile-link" href="https://muidsi.missouri.edu/person/temitope-eyinla/">View institutional profile <span aria-hidden="true">↗</span></a>
   </article>
   <article class="lab-card">
@@ -111,7 +111,7 @@ Typical contributions include literature synthesis, web and API data collection,
     <div class="lab-card__number" aria-hidden="true">04</div>
     <h3>Futian Han</h3>
     <div class="lab-role">Doctoral student and research assistant · Missouri School of Journalism</div>
-    <p>Futian joined the Ph.D. program in Fall 2026. She provides computational and technical support for browser-extension development and cancer-communication research.</p>
+    <p>Futian joined the Ph.D. program in Fall 2026. She provides computational and technical support for browser extension development and cancer communication research.</p>
   </article>
 </div>
 
