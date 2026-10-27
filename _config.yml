@@ -125,6 +125,13 @@ include:
   - _pages
   - files
 exclude:
+  - .jekyll-cache
+  - .jekyll-metadata
+  - _pages/cv 2.md
+  - files/topicmodels.html
+  - images/research/aura-workflow.svg
+  - images/research/political-search-audit.svg
+  - images/research/cct-lab-mark.svg
   - .DS_Store
   - CONTRIBUTING.md
   - CHANGELOG.md
