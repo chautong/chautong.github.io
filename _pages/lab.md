@@ -1,5 +1,5 @@
 ---
-last_modified_at: "2026-10-27T21:46:32+00:00"
+last_modified_at: "2026-10-27T21:52:30+00:00"
 title: "CCT Lab"
 permalink: /lab/
 excerpt: "Work with the Computational Communication Technology Lab on people, platforms, public information, and AI in health and politics."
@@ -112,7 +112,8 @@ Students contribute to literature reviews, data collection and coding, analysis,
     <div class="lab-card__number" aria-hidden="true">04</div>
     <h3><a href="https://journalism.missouri.edu/people/futian-han/">Futian Han</a></h3>
     <div class="lab-role">Doctoral student and research assistant · Missouri School of Journalism</div>
-    <p>Futian joined the Ph.D. program in Fall 2026. She provides computational and technical support for browser extension development and cancer communication research in the group’s <a href="/research/#information">information research</a>.</p>
+    <p>Futian studies health and computational communication, focusing on how emerging technologies and cultural contexts shape access to and engagement with information. In the group, she contributes to browser extension development and cancer communication research.</p>
+    <a class="lab-profile-link" href="https://journalism.missouri.edu/people/futian-han/">View institutional profile <span aria-hidden="true">↗</span></a>
   </article>
 </div>
 
